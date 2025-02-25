@@ -17,7 +17,7 @@
             "type": "integer"
           },
           {
-            "name": "Place of Residence",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
@@ -53,7 +53,7 @@
             }
           },
           {
-            "name": "Geopolitical zones",
+            "name": "Geopolitical zone",
             "type": "string",
             "constraints": {
               "enum": [
@@ -169,7 +169,7 @@
             "type": "integer"
           },
           {
-            "name": "Place of Residence",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
@@ -248,7 +248,7 @@
             "type": "integer"
           },
           {
-            "name": "Sector",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
@@ -315,7 +315,7 @@
             }
           },
           {
-            "name": "Place of Residence",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
@@ -340,7 +340,7 @@
             }
           },
           {
-            "name": "Geopolitical zones",
+            "name": "Geopolitical zone",
             "type": "string",
             "constraints": {
               "enum": [

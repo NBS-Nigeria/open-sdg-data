@@ -18,7 +18,7 @@
             "title": "Año"
           },
           {
-            "name": "Place of Residence",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
@@ -27,7 +27,7 @@
                 ""
               ]
             },
-            "title": "Place of Residence"
+            "title": "Degree of urbanisation"
           },
           {
             "name": "Sex",
@@ -57,7 +57,7 @@
             "title": "Wealth Index Quintile"
           },
           {
-            "name": "Geopolitical zones",
+            "name": "Geopolitical zone",
             "type": "string",
             "constraints": {
               "enum": [
@@ -70,7 +70,7 @@
                 ""
               ]
             },
-            "title": "Geopolitical zones"
+            "title": "Geopolitical zone"
           },
           {
             "name": "Education Status",
@@ -179,7 +179,7 @@
             "title": "Año"
           },
           {
-            "name": "Place of Residence",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
@@ -188,7 +188,7 @@
                 ""
               ]
             },
-            "title": "Place of Residence"
+            "title": "Degree of urbanisation"
           },
           {
             "name": "State",
@@ -262,7 +262,7 @@
             "title": "Año"
           },
           {
-            "name": "Sector",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
@@ -271,7 +271,7 @@
                 ""
               ]
             },
-            "title": "Sector"
+            "title": "Degree of urbanisation"
           },
           {
             "name": "Age_group",
@@ -334,7 +334,7 @@
             "title": "Access to Basic Services"
           },
           {
-            "name": "Place of Residence",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
@@ -343,7 +343,7 @@
                 ""
               ]
             },
-            "title": "Place of Residence"
+            "title": "Degree of urbanisation"
           },
           {
             "name": "Wealth Index Quintile",
@@ -361,7 +361,7 @@
             "title": "Wealth Index Quintile"
           },
           {
-            "name": "Geopolitical zones",
+            "name": "Geopolitical zone",
             "type": "string",
             "constraints": {
               "enum": [
@@ -374,7 +374,7 @@
                 ""
               ]
             },
-            "title": "Geopolitical zones"
+            "title": "Geopolitical zone"
           },
           {
             "name": "Education Status",
