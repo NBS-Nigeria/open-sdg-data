@@ -1,7 +1,7 @@
-Year,Series,Sector,State,Units,GeoCodex,Value
-2019,"Proportion of population living below the national poverty line, by sex, and age",Urban,,Percentage (%),,18.04
-2019,"Proportion of population living below the national poverty line, by sex, and age",Rural,,Percentage (%),,52.1
-2019,"Proportion of population living below the national poverty line, by sex, and age",,,Percentage (%),,40.1
+Year,Series,Sector,State,Units,GeoCode,Value
+2019,"Proportion of population living below the national poverty line, by sex, and age",Urban,,Percentage (%),NG,18.04
+2019,"Proportion of population living below the national poverty line, by sex, and age",Rural,,Percentage (%),NG,52.1
+2019,"Proportion of population living below the national poverty line, by sex, and age",,,Percentage (%),NG,40.1
 2019,"Proportion of population living below the national poverty line, by sex, and age",,Abia,Percentage (%),NG-AB,30.67
 2019,"Proportion of population living below the national poverty line, by sex, and age",,Adamawa,Percentage (%),NG-AD,75.41
 2019,"Proportion of population living below the national poverty line, by sex, and age",,Akwa Ibom,Percentage (%),NG-AK,26.82
