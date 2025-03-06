@@ -93,10 +93,20 @@ reporting_status_extra_fields: []
 # Note that the GeoJSON files can either be remote (as in the example below) or
 # local, relative to the src_dir specified above.
 map_layers:
- - geojson_file: geojson/Nigeria_States.geojson
+ - geojson_file: geojson/Nigeria.geojson
+   name_property: Name
+   id_property: ID
+   output_subfolder: country
+   filename_prefix: indicator_
+ - geojson_file: geojson/Nigeria_Zones.geojson
    name_property: Name
    id_property: ID
    output_subfolder: regions
+   filename_prefix: indicator_
+ - geojson_file: geojson/Nigeria_States.geojson
+   name_property: Name
+   id_property: ID
+   output_subfolder: states
    filename_prefix: indicator_
 
 # Documentation settings
