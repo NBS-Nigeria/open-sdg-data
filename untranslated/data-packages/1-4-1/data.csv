@@ -1,4 +1,4 @@
-Year,Access to Basic Services,Degree of urbanisation,Wealth Index Quintile,Geopolitical zone,Education Status,State,Value
+Year,Access to Basic Services,Sector,Wealth Index Quintile,Geopolitical zone,Education Status,State,Value
 2017,Water,,,,,,64.1
 2017,Sanitation,,,,,,35.9
 2017,Electricity,,,,,,54.4
@@ -116,7 +116,7 @@ Year,Access to Basic Services,Degree of urbanisation,Wealth Index Quintile,Geopo
 2017,Electricity,,,North  Central,,,48.1
 2017,Radio,,,North  Central,,,59.1
 2017,Television,,,North  Central,,,47.8
-2017,Internet,,,,,,
+2017,Internet,,,North  Central,,,
 2017,Telephone,,,North  Central,,,79.9
 2021,Water,,,North  Central,,,65.6
 2021,Sanitation,,,North  Central,,,30.3

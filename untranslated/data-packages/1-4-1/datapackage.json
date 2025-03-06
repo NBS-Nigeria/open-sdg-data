@@ -31,7 +31,7 @@
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "Sector",
             "type": "string",
             "constraints": {
               "enum": [

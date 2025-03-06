@@ -33,7 +33,7 @@
             "title": "Access to Basic Services"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "Sector",
             "type": "string",
             "constraints": {
               "enum": [
@@ -42,7 +42,7 @@
                 ""
               ]
             },
-            "title": "Degree of urbanisation"
+            "title": "Sector"
           },
           {
             "name": "Wealth Index Quintile",
