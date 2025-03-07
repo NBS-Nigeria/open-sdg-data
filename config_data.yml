@@ -94,18 +94,18 @@ reporting_status_extra_fields: []
 # local, relative to the src_dir specified above.
 map_layers:
  - geojson_file: geojson/Nigeria.geojson
-   name_property: Name
-   id_property: ID
+   name_property: Name_en
+   id_property: Cid
    output_subfolder: country
    filename_prefix: indicator_
  - geojson_file: geojson/Nigeria_Zones.geojson
-   name_property: Name
-   id_property: ID
+   name_property: Name_en
+   id_property: Zid
    output_subfolder: regions
    filename_prefix: indicator_
  - geojson_file: geojson/Nigeria_States.geojson
-   name_property: Name
-   id_property: ID
+   name_property: Name_en
+   id_property: Sid
    output_subfolder: states
    filename_prefix: indicator_
 
