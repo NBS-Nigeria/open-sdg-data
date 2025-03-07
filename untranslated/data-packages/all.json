@@ -269,13 +269,13 @@
               "enum": [
                 "Abia",
                 "Adamawa",
-                "Akwa-Ibom",
+                "Akwa Ibom",
                 "Anambra",
                 "Bauchi",
                 "Bayelsa",
                 "Benue",
                 "Borno",
-                "Cross-River",
+                "Cross River",
                 "Delta",
                 "Ebonyi",
                 "Edo",
@@ -303,10 +303,14 @@
                 "Taraba",
                 "Yobe",
                 "Zamfara",
-                "FCT",
+                "Federal Capital Territory",
                 ""
               ]
             }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",
