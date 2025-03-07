@@ -105,7 +105,7 @@ map_layers:
    filename_prefix: indicator_
  - geojson_file: geojson/Nigeria_States.geojson
    name_property: Name_en
-   id_property: Sid
+   id_property: Tag
    output_subfolder: states
    filename_prefix: indicator_
 
