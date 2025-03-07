@@ -32,7 +32,9 @@ CONTACT_MAIL: >-
 CONTACT_EMAIL: >-
 
 STAT_CONC_DEF: >- 
+
   ## Definition: 
+
   The proportion of population living in households with access to basic services is 
   defined as the proportionof population using public service provision systems that 
   meet basic human needs including drinking water,sanitation, hygiene, energy, mobility, 
