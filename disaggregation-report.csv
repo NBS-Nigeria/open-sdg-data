@@ -1,9 +1,13 @@
 Disaggregation,Number of indicators,Number of values
 Access to Basic Services,1,7
 Age group,1,5
+Education Level,1,5
 Education Status,1,5
 Educational level,1,4
+Ethnicity,1,10
+Gender,1,2
+Geopolitical Zone,1,6
 Geopolitical zone,1,6
-Sector,3,2
-State,2,40
-Wealth Index Quintile,1,5
+Sector,4,2
+State,3,40
+Wealth Index Quintile,2,5
