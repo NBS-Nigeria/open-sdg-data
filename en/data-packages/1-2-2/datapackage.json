@@ -12,8 +12,197 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of persons of all ages living in poverty in all its dimensions according to national definitions",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Multidimension Poverty Index (MPI)",
+                "Incidence (H)",
+                "Intensity (A)",
+                "Population Share",
+                "Number of Poor",
+                ""
+              ]
+            },
+            "title": "Measure"
+          },
+          {
+            "name": "Sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
+                ""
+              ]
+            },
+            "title": "Sector"
+          },
+          {
+            "name": "Geopolitical Zone",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "North  Central",
+                "North East",
+                "North West",
+                "South East",
+                "South South",
+                "South West",
+                ""
+              ]
+            },
+            "title": "Geopolitical Zone"
+          },
+          {
+            "name": "State",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Abia",
+                "Adamawa",
+                "Akwa Ibom",
+                "Anambra",
+                "Bauchi",
+                "Bayelsa",
+                "Benue",
+                "Borno",
+                "Cross River",
+                "Delta",
+                "Ebonyi",
+                "Edo",
+                "Ekiti",
+                "Enugu",
+                "Gombe",
+                "Imo",
+                "Jigawa",
+                "Kaduna",
+                "Kano",
+                "Katsina",
+                "Kebbi",
+                "Kogi",
+                "Kwara",
+                "Lagos",
+                "Nasarawa",
+                "Niger",
+                "Ogun",
+                "Ondo",
+                "Osun",
+                "Oyo",
+                "Plateau",
+                "Rivers",
+                "Sokoto",
+                "Taraba",
+                "Yobe",
+                "Zamfara",
+                "Federal Capital Territory",
+                ""
+              ]
+            },
+            "title": "State"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Index",
+                "Percentage (%)",
+                "Millions",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Unnamed: 9",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 9"
+          },
+          {
+            "name": "Unnamed: 10",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 10"
+          },
+          {
+            "name": "Unnamed: 11",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 11"
+          },
+          {
+            "name": "Unnamed: 12",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 12"
+          },
+          {
+            "name": "Unnamed: 13",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 13"
+          },
+          {
+            "name": "Unnamed: 14",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 14"
+          },
+          {
+            "name": "Unnamed: 15",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Unnamed: 15"
           },
           {
             "name": "Value",
