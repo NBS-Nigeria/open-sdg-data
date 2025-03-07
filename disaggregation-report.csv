@@ -7,8 +7,10 @@ Educational level,1,4
 Ethnicity,1,10
 Gender,1,2
 Geopolitical Zone,2,6
-Geopolitical zone,1,6
+Geopolitical zone,2,7
 Measure,1,5
-Sector,5,2
+Sector,6,2
+Sex,1,2
 State,4,37
+Tenure rights,1,4
 Wealth Index Quintile,2,5
