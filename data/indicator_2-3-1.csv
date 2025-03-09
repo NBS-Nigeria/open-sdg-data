@@ -1,25 +1,28 @@
-Year,Series,Measure,Units,Value
-2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Production,,3.09E+12
-2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Production,,29000000000
-2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Production,,3.06E+12
-2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Production,,1.02E+11
-2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Production,,36300000000
-2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Production,,2.84E+12
-2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Production,,21100000000
-2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Production,,52700000000
-2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Production,,33400000000
-2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Labour,,828000000
-2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Labour,,80200000
-2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Labour,,747000000
-2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Labour,,226000000
-2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Labour,,147000000
-2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Labour,,235000000
-2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Labour,,81200000
-2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Labour,,112000000
-2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Labour,,25900000
-2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Labour Productivity,Kilogram (KG),3732
-2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Labour Productivity,Kilogram (KG),362
-2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Labour Productivity,Kilogram (KG),4096
-2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Labour Productivity,Kilogram (KG),451
-2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Labour Productivity,Kilogram (KG),247
-2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Labour Productivity,Kilogram (KG),12085
+Year,Series,Measure,Geographical zone,Units,Value
+2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Production,,,3090000000000
+2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Production,,,29000000000
+2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Production,,,3060000000000
+2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Production,North  Central,,102000000000
+2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Production,North East,,36300000000
+2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Production,North West,,2840000000000
+2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Production,South East,,21100000000
+2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Production,South South,,52700000000
+2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Production,South West,,33400000000
+2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Labour,,,828000000
+2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Labour,,,80200000
+2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Labour,,,747000000
+2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Labour,North  Central,,226000000
+2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Labour,North East,,147000000
+2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Labour,North West,,235000000
+2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Labour,South East,,81200000
+2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Labour,South South,,112000000
+2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Total Labour,South West,,25900000
+2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Labour Productivity,,Kilogram (KG),3732
+2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Labour Productivity,,Kilogram (KG),362
+2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Labour Productivity,,Kilogram (KG),4096
+2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Labour Productivity,North  Central,Kilogram (KG),451
+2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Labour Productivity,North East,Kilogram (KG),247
+2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Labour Productivity,North West,Kilogram (KG),12085
+2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Labour Productivity,South East,Kilogram (KG),260
+2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Labour Productivity,South South,Kilogram (KG),471
+2019,Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,Labour Productivity,South West,Kilogram (KG),1290
