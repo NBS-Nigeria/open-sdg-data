@@ -1,8 +1,13 @@
 Indicator,Disaggregations,Number of disaggregations
 #1-1-1,"Sector, Age group, Educational level",3
 #1-2-1,"Sector, State",2
-#1-2-2,"Measure, Sector, Geopolitical Zone, State",4
-#1-3-1,"Sector, Geopolitical Zone, State, Gender, Wealth Index Quintile, Education Level, Ethnicity",7
-#1-4-1,"Sector, State, Geopolitical zone, Wealth Index Quintile, Access to Basic Services, Education Status",6
-#1-4-2,"Sector, Tenure rights, Geopolitical zone, Sex",4
+#1-2-2,"Sector, Geopolitical Zone, State, Measure",4
+#1-3-1,"Sector, Wealth Index Quintile, Geopolitical Zone, Education Level, State, Ethnicity, Gender",7
+#1-4-1,"Sector, Wealth Index Quintile, State, Geopolitical zone, Access to Basic Services, Education Status",6
+#1-4-2,"Sector, Sex, Geopolitical zone, Tenure rights",4
 #1-5-1,"State, Category of disaster effect",2
+#2-1-2,"Sector, Wealth Index Quintile, Geopolitical Zone, Education Level, State, Severity, Ethnicity",7
+#2-2-1,"Sector, Age group, State, Measure, Sex, Geopolitical zone",6
+#2-2-2,"Sector, Geopolitical Zone, Age group, State, Measure, Sex",6
+#2-2-3,"Haemoglobin level, Sector, Wealth Index Quintile, Geopolitical Zone, Education Level, Maternity status, Age group, State",8
+#2-3-1,"Measure, Geographical zone",2
