@@ -2,7 +2,7 @@
 computation_units: ''
 copyright: ''
 data_footnote: ''
-data_non_statistical: false
+data_non_statistical: true
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
@@ -14,19 +14,50 @@ embedded_feature_tab_title: ''
 embedded_feature_title: ''
 embedded_feature_url: ''
 expected_disaggregations: []
+footer_fields: []
 graph_annotations: []
 graph_limits: []
+graph_series_breaks: []
 graph_stacked_disaggregation: ''
+graph_target_lines: []
 graph_title: global_indicators.1-5-3-title
 graph_titles: []
 graph_type: line
+indicator_available: ''
 indicator_name: global_indicators.1-5-3-title
-indicator_number: '1.5.3'
+indicator_number: 1.5.3
+indicator_tabs:
+  override: false
+  tab_1: ''
+  tab_2: ''
+  tab_3: ''
+  tab_4: ''
 national_geographical_coverage: ''
-page_content: ''
+page_content: |-
+  <strong>Non-statistical indicator</strong>
+    <br><br>
+    We have identified the following to be relevant for reporting on this indicator:
+    <br><br>
+    <a href="https://www.nema.gov.ng/national-disaster-management-frame-work/2/">Nigeria's Framework for Disaster Management</a> mandates the establishment of Disaster Management structures at all levels of governance (federal, states and local) in Nigeria. 
+    <br><br>
+    The <a href="https://nema.gov.ng/the-national-disaster-response-plan/">Disaster Response Plan for Nigeria</a> established a process and structure for the systematic, coordinated and effective delivery of Federal Assistance, to address the consequences of any major disaster or emergency declared by the President of the Federal Republic of Nigeria.
+    <br><br>
+    <a href="https://nema.gov.ng/documentations/National%20Contingency%20Plan%20(2019-2021)%20-%20Revised.pdf">National Contigency Plan</a> The document adopts the multi-risk approach and aims to reduce impact of disasters and save as many lives as possible from preventable causes.
+        <br><br>
+    <a href="https://nema.gov.ng/documentations/National%20Disaster%20Risk%20Management%20Policy.pdf">National Disaster Risk Management Policy</a> he goal of the Policy is to institutionalize development and application of disaster risk management systems, mechanisms, practices and programmes aimed at effectively reducing hazard risk as a means of ensuring resilience to disasters within the context of sustainable development at the Federal, State and Local Government levels of the national territory.
+    <br><br>
+    <table><tr><td>Availability of National Disaster Risk Reduction Strategy in Line with Sendai Framework</td><td>2016</td><td>2017</td><td>2018</td><td>2019</td><td>2020</td><td>2021</td><td>2022</td><td>2023</td></tr><tr><td>Unit - Yes =1     No=2</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr></table>
 permalink: ''
+placeholder: ''
 precision: []
+progress_status: target_achieved
+proxy: ''
+proxy_series: []
+publications: []
+related_indicators: []
 reporting_status: notstarted
 sort: ''
+sources: []
 standalone: false
 tags: []
+x_axis_label: ''
