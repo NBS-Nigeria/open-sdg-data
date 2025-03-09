@@ -10,4 +10,4 @@ Indicator,Disaggregations,Number of disaggregations
 #2-2-1,"Sector, Age group, State, Measure, Sex, Geopolitical zone",6
 #2-2-2,"Sector, Geopolitical Zone, Age group, State, Measure, Sex",6
 #2-2-3,"Haemoglobin level, Sector, Wealth Index Quintile, Geopolitical Zone, Education Level, Maternity status, Age group, State",8
-#2-3-1,"Measure, Geographical zone",2
+#2-3-1,"Sector, Measure, Geographical zone",3

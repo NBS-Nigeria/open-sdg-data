@@ -1264,6 +1264,17 @@
             }
           },
           {
+            "name": "Sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Geographical zone",
             "type": "string",
             "constraints": {
@@ -1289,8 +1300,12 @@
             }
           },
           {
+            "name": "GeoCode",
+            "type": "string"
+          },
+          {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
