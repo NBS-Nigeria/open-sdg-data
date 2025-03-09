@@ -1,0 +1,71 @@
+﻿SDG_INDICATOR__GLOBAL: '<p>Indicator 1.b.1: Pro-poor public social spending</p>'
+SDG_TARGET__GLOBAL: >-
+  <p>Target 1.b: Create sound policy frameworks at the national, regional and
+  international levels, based on pro-poor and gender-sensitive development
+  strategies, to support accelerated investment in poverty eradication
+  actions</p>
+META_LAST_UPDATE__GLOBAL: '2021-12-20'
+SDG_CUSTODIAN_AGENCIES__GLOBAL: '<p>UNICEF, Save the Children</p>'
+SDG_RELATED_INDICATORS__GLOBAL: >-
+  <p>The definition of poverty follows indicator 1.2.1 (Proportion of population
+  living below the national poverty line, by sex and age).</p>
+
+  <p>The methodology underlying the proposed indicator 1.b.1 and its data
+  requirements are also closely related to that of the newly accepted indicator
+  <em>Redistributive Impact of Fiscal Policy</em> measuring SDG target 10.4.
+  However, the two indicators measures different aspects of public policies:
+  while the <em>Redistributive Impact of Fiscal Policy</em> indicator is an
+  exact measure of the distributional impact of fiscal policies aimed at
+  achieving greater equality (SDG target 10.4), this indicator focuses solely on
+  the spending side of governments&#x2019; fiscal policies and its effect on the
+  poor. Fiscal policies that are found to reduce overall inequality may not
+  benefit disproportionately more the poor, as their impact on the income
+  distribution may occur in higher deciles of the distribution. In clear
+  contrast to the indicator <em>Redistributive Impact of Fiscal Policy</em>, the
+  clear focus of the proposed indicator <em>Pro-poor public social</em> spending
+  is on the effect of spending for poor individuals or households, reflecting if
+  social policies are designed with pro-poor development strategies in mind, and
+  therefore directly measuring SDG target 1.b.</p>
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: ''
+SDG_TARGET: ''
+SDG_INDICATOR: ''
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: ''
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: |
+  NBS; Appropriation Act
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: ''
+COMPILING_ORG: ''
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: ''
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: ''
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: ''
