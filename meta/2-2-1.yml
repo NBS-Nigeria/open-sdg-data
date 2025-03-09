@@ -1,0 +1,67 @@
+﻿SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 2.2.1: Prevalence of stunting (height for age &lt;-2 standard
+  deviation from the median of the World Health Organization (WHO) Child Growth
+  Standards) among children under 5 years of age</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 2.2: by 2030 end all forms of malnutrition, including achieving by
+  2025 the internationally agreed targets on stunting and wasting in children
+  under five years of age, and address the nutritional needs of adolescent
+  girls, pregnant and lactating women, and older persons</p>
+META_LAST_UPDATE__GLOBAL: '2024-07-29'
+SDG_CUSTODIAN_AGENCIES__GLOBAL: |-
+  <p>United Nations Children&apos;s Fund (UNICEF)</p>
+  <p>World Health Organization (WHO)</p>
+  <p>World Bank (WB)</p>
+SDG_RELATED_INDICATORS__GLOBAL: >-
+  <p>Good nutrition lays the foundation for achieving many of the SDGs with
+  improvements in nutrition directly supporting the achievement of SDG3
+  (ensuring healthy lives), while also playing a role in ending poverty (SDG1),
+  ensuring quality education (SDG4), achieving gender equality (SDG5), promoting
+  economic growth (SDG8), and reducing inequalities (SDG10). In this way,
+  nutrition is the lifeblood of sustainable development, and drives the changes
+  needed for a more sustainable and prosperous future.</p>
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: ''
+SDG_TARGET: ''
+SDG_INDICATOR: ''
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Number of under-fives falling below minus 2 standard deviations from the
+  median height-for-age of the reference population [Children under 5 years of
+  age in the surveyed population]
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: ' NBS, GHS WAVE 4'
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: ''
+COMPILING_ORG: ''
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: ''
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: ''
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: ''
