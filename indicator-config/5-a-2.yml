@@ -2,7 +2,7 @@
 computation_units: ''
 copyright: ''
 data_footnote: ''
-data_non_statistical: false
+data_non_statistical: true
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
@@ -23,10 +23,16 @@ graph_type: line
 indicator_name: global_indicators.5-a-2-title
 indicator_number: '5.a.2'
 national_geographical_coverage: ''
-page_content: ''
+page_content: |-
+  <strong>Non-statistical indicator</strong>
+    <br><br>
+    We have identified the following to be relevant for reporting on this indicator:
+    <br><br>
+    <table><tr><td>Indicator</td><td>Status</td><td>Legal framework</td></tr><tr><td>Joint Land Ownership</td><td>Yes</td><td>Section 42 &amp; 43 of 1999 constitution, Married Women’s Property Act (MWPA) 1882</td></tr><tr><td>Inheritance Rights</td><td>Yes</td><td>Section 42 (1) &amp; 42(2) of 1999 constitution, Married Women’s Property Act (MWPA) 1882</td></tr><tr><td>Non-Discrimination</td><td>Yes</td><td>Section 42 &amp; 43 of 1999 constitution</td></tr><tr><td>Recognition in Customary Law</td><td>Yes</td><td>Land Use Act (1978)</td></tr><tr><td>Land Use and Administration</td><td>Yes</td><td>Land Use Act (1978)</td></tr></table>
 permalink: ''
 precision: []
-reporting_status: notstarted
+progress_status: target_achieved
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []

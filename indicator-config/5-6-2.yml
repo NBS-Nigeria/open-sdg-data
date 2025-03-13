@@ -2,7 +2,7 @@
 computation_units: ''
 copyright: ''
 data_footnote: ''
-data_non_statistical: false
+data_non_statistical: true
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
@@ -23,10 +23,18 @@ graph_type: line
 indicator_name: global_indicators.5-6-2-title
 indicator_number: '5.6.2'
 national_geographical_coverage: ''
-page_content: ''
+page_content: |-
+  <strong>Non-statistical indicator</strong>
+    <br><br>
+    We have identified the following to be relevant for reporting on this indicator:
+    <br><br>
+    <table><tr><td>Description</td><td>Yes/NO</td><td>Constitutional provisions/laws and policies</td></tr><tr><td>Availability of laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education</td><td>Yes</td><td>National Health policy 2016, national policy on Population and Suatainable development,2004, Violence Against Persons(Prohibition) Act 2015, National policy on the Health and development of Adolescents (2021-2025)</td></tr></table>
 permalink: ''
 precision: []
-reporting_status: notstarted
+progress_status: target_achieved
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
+source_active_1: true
+source_organisation_1: Federal Ministry of Health
