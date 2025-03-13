@@ -1,3 +1,8 @@
 Value,Disaggregation combinations using this value,Number of indicators
-Rural,47,11
-Urban,47,11
+Itenerant,15,4
+Peri-Urban,15,4
+Rural-Rural,15,4
+Rural,131,37
+Small Town,15,4
+Urban-Urban,15,4
+Urban,131,37
