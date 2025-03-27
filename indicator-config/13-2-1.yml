@@ -2,7 +2,7 @@
 computation_units: ''
 copyright: ''
 data_footnote: ''
-data_non_statistical: false
+data_non_statistical: true
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
@@ -23,10 +23,18 @@ graph_type: line
 indicator_name: global_indicators.13-2-1-title
 indicator_number: '13.2.1'
 national_geographical_coverage: ''
-page_content: ''
+page_content: |-
+  <strong>Non-statistical indicator</strong>
+    <br><br>
+    We have identified the following to be relevant for reporting on this indicator:
+    <br><br>
+    <table><thead><tr><th rowspan="2">Nationally Determined Contributions (NDCs)</th><th>1st NDC: Submitted in 2017, focusing on reducing greenhouse gas (GHG) emissions by 20% unconditionally and up to 45% conditionally by 2030</th><th rowspan="5">1. National Climate Change Policy for Nigeria (2021). <br> 2. National Policy on the enviroment (2016) <br> 3. National Disaster Framework (2010) <br> 4. Nigeria Climate Change Policy Response and Strategy (NCCPRS) (2012). <br> 5. National Adaptation Plan Framework. (2020). <br> 6.Updated Nationally Determined Contribution (2021). <br>7. Climate Change and Gender Action Plan (2020)</th></tr></thead><tbody><tr><td>Updated NDC: Submitted in 2021, reaffirming and expanding the commitment to mitigation and adaptation actoions</td><td></td></tr><tr><td>Long Term Strategies (LTSs)</td><td>In November 2021, Nigeria submitted its Long-Term Emission Development Strategy to the  United Nations Framework Convention on Climate Change( UNFCC). This document outlines Nigeria`s pathway to achieving net-zero emissions by 2060</td></tr><tr><td>National Adaptation Plans (NAPs)</td><td>Through the National Adaptation Strategy and Plan of Action for Climate Change in Nigeria (NASPA CCN) (2015) and the NAP Framework (2020), Nigeria has developed the right policies, strategies, and action plans to achieve its adaptation priorities. Adaptation issues are addressed using a sectoral approach. The key sectors given prominence include energy, agriculture, water resources, forestry and wildlife, education, health, security, and transportation.</td></tr><tr><td>Adaptation Communications (AdComs)</td><td>Nigeria, as a Party to the Paris Agreement (having signed the agreement on September 22, 2016, and ratified it on May 16, 2017), submitted its first adaptation communication (ADCOM) in line with Article 7, paragraphs 10 and 11 of the agreement. This is also in accordance with decision 9/CMA.1 of the UNFCCC, which gives further guidance in relation to adaptation communications</td></tr></tbody></table>
 permalink: ''
 precision: []
-reporting_status: notstarted
+progress_status: target_achieved
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
+source_active_1: true
+source_organisation_1: Federal Ministry of Environment

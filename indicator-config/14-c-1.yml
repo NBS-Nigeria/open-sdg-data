@@ -2,7 +2,7 @@
 computation_units: ''
 copyright: ''
 data_footnote: ''
-data_non_statistical: false
+data_non_statistical: true
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
@@ -23,10 +23,18 @@ graph_type: line
 indicator_name: global_indicators.14-c-1-title
 indicator_number: '14.c.1'
 national_geographical_coverage: ''
-page_content: ''
+page_content: |-
+  <strong>Non-statistical indicator</strong>
+    <br><br>
+    We have identified the following to be relevant for reporting on this indicator:
+    <br><br>
+    <table><thead><tr><th>Indicator</th><th>Ratification and Implementation of Ocean-Related Instruments</th><th>Collaboration and regional efforts</th><th>Institutional Framework</th></tr></thead><tbody><tr><td rowspan="2">Is Nigeria making progress in ratifying, adopting, and implementing ocean-related instruments through legal, policy, and institutional frameworks, in accordance with international law as outlined in the United Nations Convention on the Law of the Sea, to ensure the conservation and sustainable use of ocean resources?</td><td>Ratification: Nigeria ratified UNCLOS in 1986 and it became law in 1994. <br> Domestication: In 2019, Nigeria domesticated UNCLOS through the Suppression of Piracy and Other Maritime Offence Act (SUPMAO)</td><td>Participated in the Abidjan Convention, a regional framework form protecting marine and coastal areas in west Africa. The African Union`s Integrated Maritime Strategy (AIMS)2050, which nigeria is a party to.</td><td>NIMASA under the Federal Ministry of Marine and Blue Economy oversees compliance with international maritime standards and UNCLOS-related laws.</td></tr><tr><td>Consenting to the Common Wealth Blue Charter:Nigeria signed the following Commonwealth Blue Charter Action groups; Clean Ocean Alliance, Mangrove Ecosystem and Livelihood Action group, Marine Protected Areas, Ocean and Climate change and Sustainable Blue Economy, all towards ensuring healthy oceans.</td><td>The Bamako Convention of the Ban of the Import into Africa and the control of Transboundary Movement and Management of Hazardous wastes within Africa (the Bamako Convention)1987. Africa Union Agenda</td><td>I. Policy Framework and reform strategy for fisheries and aquaculture in Africa (2014)<br>II. The Africa Blue Economy strategy (2018)<br>III. Africa Strategy for ocean governance (draft) (2021)<br>IV. National blue Economy policy (Draft)<br>V. National Blue Economy strategy (2024)<br></td></tr></tbody></table>
 permalink: ''
 precision: []
-reporting_status: notstarted
+progress_status: target_achieved
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
+source_active_1: true
+source_organisation_1: Ministry of Marine and Blue Economy

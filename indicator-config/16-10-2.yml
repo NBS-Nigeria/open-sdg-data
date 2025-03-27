@@ -2,7 +2,7 @@
 computation_units: ''
 copyright: ''
 data_footnote: ''
-data_non_statistical: false
+data_non_statistical: true
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
@@ -23,10 +23,19 @@ graph_type: line
 indicator_name: global_indicators.16-10-2-title
 indicator_number: '16.10.2'
 national_geographical_coverage: ''
-page_content: ''
+page_content: |-
+  <strong>Non-statistical indicator</strong>
+    <br><br>
+    We have identified the following to be relevant for reporting on this indicator:
+    <br><br>
+    <table><thead><tr><th colspan="10">Countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information</th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>Unit</td><td>2016</td><td>2017</td><td>2018</td><td>2019</td><td>2020</td><td>2021</td><td>2022</td><td>2023</td><td>2024</td></tr><tr><td>Yes =1 No=2</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr></tbody></table>
 permalink: ''
 precision: []
-reporting_status: notstarted
+progress_status: target_achieved
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
+source_active_1: true
+source_organisation_1: Federal Ministry of Justice
+
