@@ -2,7 +2,7 @@
 computation_units: ''
 copyright: ''
 data_footnote: ''
-data_non_statistical: false
+data_non_statistical: true
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
@@ -23,10 +23,18 @@ graph_type: line
 indicator_name: global_indicators.13-3-1-title
 indicator_number: '13.3.1'
 national_geographical_coverage: ''
-page_content: ''
+page_content: |-
+  <strong>Non-statistical indicator</strong>
+    <br><br>
+    We have identified the following to be relevant for reporting on this indicator:
+    <br><br>
+    <table><thead><tr><th>Description</th><th>Key Measures</th></tr></thead><tbody><tr><td rowspan="3">Primary &amp; Secondary School Education</td><td>National Policy on Education: The policy emphasizes environmental education, which includes climate change-related topics like sustainability and conservation.</td></tr><tr><td>Integration into Science and Geography: Topics like environmental protection, deforestation, and the effects of climate change are included in basic education curricula.The Universal Basic Education Commission (UBEC) supports environmental clubs in schools to promote climate awareness.</td></tr><tr><td>Pilot Programs: Partnerships between NGOs and schools have introduced localized climate education, such as the role of afforestation and renewable energy.The Green Schools Program by some state governments focuses on teaching sustainability.</td></tr><tr><td rowspan="2">Tertiary</td><td>University Courses and Programs: Universities like the University of Ibadan, Ahmadu Bello University, and the Federal University of Technology Akure offer specialized programs in climate science, environmental management, and sustainable development.</td></tr><tr><td>Research Centers: Establishment of research institutes and centers, such as the Centre for Climate Change and Freshwater Resources at Nasarawa State University, promotes climate-related studies and innovation.</td></tr></tbody></table>
 permalink: ''
 precision: []
-reporting_status: notstarted
+progress_status: target_achieved
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
+source_active_1: true
+source_organisation_1: Federal Ministry of Education

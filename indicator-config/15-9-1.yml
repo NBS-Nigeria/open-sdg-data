@@ -2,7 +2,7 @@
 computation_units: ''
 copyright: ''
 data_footnote: ''
-data_non_statistical: false
+data_non_statistical: true
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
@@ -23,10 +23,18 @@ graph_type: line
 indicator_name: global_indicators.15-9-1-title
 indicator_number: '15.9.1'
 national_geographical_coverage: ''
-page_content: ''
+page_content: |-
+  <strong>Non-statistical indicator</strong>
+    <br><br>
+    We have identified the following to be relevant for reporting on this indicator:
+    <br><br>
+    <table><thead><tr><th>Indicator</th><th>yes/no</th><th>Framework/Plan</th></tr></thead><tbody><tr><td>Has Nigeria established national biodiversity targets in line with Aichi Biodiversity Target 2 through its National Biodiversity Strategy and Action Plan (NBSAP)?</td><td>Yes</td><td>National Biodiversity Strategy and Action plan (NBSAP) 2016-2020</td></tr></tbody></table>
 permalink: ''
 precision: []
-reporting_status: notstarted
+progress_status: target_achieved
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
+source_active_1: true
+source_organisation_1: Federal Ministry of Enviroment

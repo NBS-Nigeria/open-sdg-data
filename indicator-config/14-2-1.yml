@@ -2,7 +2,7 @@
 computation_units: ''
 copyright: ''
 data_footnote: ''
-data_non_statistical: false
+data_non_statistical: true
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
@@ -23,10 +23,18 @@ graph_type: line
 indicator_name: global_indicators.14-2-1-title
 indicator_number: '14.2.1'
 national_geographical_coverage: ''
-page_content: ''
+page_content: |-
+  <strong>Non-statistical indicator</strong>
+    <br><br>
+    We have identified the following to be relevant for reporting on this indicator:
+    <br><br>
+    <table><thead><tr><th>Indicator</th><th>Progress Report</th></tr></thead><tbody><tr><td>Nigeria progress on numbers of countries using ecosystem-based approaches to managing marine areas</td><td>Nigeria has made strides in marine conservation and management through frameworks such as the &quot;Nigeria&#39;s National Environmental (Coastal and Marine Area Protection) Regulations, 2011 (S.I. No. 18 of 2011)&quot; Which establish a regulatory framework for the protection of Nigeria&#39;s coastal and marine areas.</td></tr></tbody></table>
 permalink: ''
 precision: []
-reporting_status: notstarted
+progress_status: target_achieved
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
+source_active_1: true
+source_organisation_1: National Environmental Standards and Regulations Enforcement Agency

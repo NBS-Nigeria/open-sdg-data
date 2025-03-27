@@ -2,7 +2,7 @@
 computation_units: ''
 copyright: ''
 data_footnote: ''
-data_non_statistical: false
+data_non_statistical: true
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
@@ -23,10 +23,21 @@ graph_type: line
 indicator_name: global_indicators.17-5-1-title
 indicator_number: '17.5.1'
 national_geographical_coverage: ''
-page_content: ''
+page_content: |-
+  <strong>Non-statistical indicator</strong>
+    <br><br>
+    We have identified the following to be relevant for reporting on this indicator:
+    <br><br>
+    NIPC: Government Agency responsible for encouraging and promoting investment in nigeria.  <br>
+    ii. Free Trade Zones; nigeria has established several free trade zones such as Lekki free trade zone & calabar free trade zone.<br>
+    iii. BITs: Nigeria has signed Numerous Billateral investment agrrements with various countries, creating a legal framework to protect & promote foreign investment. <br>
+    iv. involvement with LDCs Nigerias commitment to regional development & Cooperation includes Partnership within ECOWAS Countries, which promotes trade, Investment and Economic growth across West African Countries.
 permalink: ''
 precision: []
-reporting_status: notstarted
+progress_status: target_achieved
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
+source_active_1: true
+source_organisation_1: Nigerian Investment Promotion Commission (NIPC)

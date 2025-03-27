@@ -2,7 +2,7 @@
 computation_units: ''
 copyright: ''
 data_footnote: ''
-data_non_statistical: false
+data_non_statistical: true
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
@@ -23,10 +23,19 @@ graph_type: line
 indicator_name: global_indicators.16-8-1-title
 indicator_number: '16.8.1'
 national_geographical_coverage: ''
-page_content: ''
+page_content: |-
+  <strong>Non-statistical indicator</strong>
+    <br><br>
+    We have identified the following to be relevant for reporting on this indicator:
+    <br><br>
+    <table><thead><tr><th>Organization/Institiution</th><th>Membership</th><th>voting Right</th><th>Source (url)</th></tr></thead><tbody><tr><td>United Nations General Assembly (UNGA)</td><td>yes</td><td>yes</td><td>https://www.un.org/en/about-us/un-charter/full-text#:~:text=Article%2019,the%20control%20of%20the%20Member.</td></tr><tr><td>Common Wealth of Nations</td><td>yes</td><td>yes</td><td></td></tr><tr><td>International Monenetary Fund (IMF)</td><td>Yes</td><td>Voting power is based on its Financial Contributions(quotas)</td><td>https://www.imf.org/en/About/executive-board/members-quotas</td></tr><tr><td>World Trade Organization (WTO)</td><td>yes</td><td>yes</td><td>https://www.wto.org/english/thewto_e/countries_e/nigeria_e.htm?utm_source</td></tr><tr><td>Organization of Petroleum Exporting Countries (OPEC)</td><td>yes</td><td>yes</td><td>https://www.opec.org/opec_web/static_files_project/media/downloads/publications/OPEC_Statute.pdf</td></tr><tr><td>Economic Community of West African States (ECOWAS)</td><td>yes</td><td>yes</td><td></td></tr><tr><td>African Union (AU)</td><td>yes</td><td>yes</td><td></td></tr></tbody></table>
 permalink: ''
 precision: []
-reporting_status: notstarted
+progress_status: target_achieved
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
+source_active_1: true
+source_organisation_1: Ministry of Foreign Affairs
+

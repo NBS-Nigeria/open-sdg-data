@@ -2,7 +2,7 @@
 computation_units: ''
 copyright: ''
 data_footnote: ''
-data_non_statistical: false
+data_non_statistical: true
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
@@ -23,10 +23,22 @@ graph_type: line
 indicator_name: global_indicators.10-7-2-title
 indicator_number: '10.7.2'
 national_geographical_coverage: ''
-page_content: ''
+page_content: |-
+  <strong>Non-statistical indicator</strong>
+    <br><br>
+    We have identified the following to be relevant for reporting on this indicator:
+    <br><br>
+    <table><tr><td>Nigeria Approach</td><td></td><td>Yes/No</td></tr><tr><td>Legal FrameWork</td><td>Nigerian Immigration Act, 2015, National Migration Policy (NMP),2015</td><td>yes</td></tr><tr><td>Rights and Integration</td><td>Econmomic Community of West African (ECOWAS) Free Movement Protocol</td><td>yes</td></tr><tr><td>Regional Cooperation</td><td>Nigerian Diaspora Policy, 2021</td><td>yes</td></tr></table>
 permalink: ''
 precision: []
-reporting_status: notstarted
+progress_status: target_achieved
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
+source_active_1: true
+source_organisation_1:  Nigeria Immigration Service
+source_active_2: true
+source_organisation_2:  Federal ministry of Foreign affairs
+source_active_3: true
+source_organisation_3:  Nigerian Diaspora Commission (NIDCOM)
