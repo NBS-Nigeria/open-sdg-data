@@ -8100,6 +8100,48 @@
       "title": "(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure"
     },
     {
+      "path": "8-4-2/data.csv",
+      "name": "8-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tonnes",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
+    },
+    {
       "path": "13-1-1/data.csv",
       "name": "13-1-1",
       "profile": "tabular-data-resource",
@@ -13904,28 +13946,6 @@
         ]
       },
       "title": "Total amount of funding for developing and developed countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies"
-    },
-    {
-      "path": "8-4-2/data.csv",
-      "name": "8-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
     },
     {
       "path": "15-b-1/data.csv",
