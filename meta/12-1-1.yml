@@ -1,0 +1,71 @@
+﻿SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 12.1.1: Number of countries developing, adopting or implementing
+  policy instruments aimed at supporting the shift to sustainable consumption
+  and production</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 12.1: Implement the 10&#x2011;Year Framework of Programmes on
+  Sustainable Consumption and Production Patterns, all countries taking action,
+  with developed countries taking the lead, taking into account the development
+  and capabilities of developing countries</p>
+META_LAST_UPDATE__GLOBAL: '2024-01-31'
+SDG_CUSTODIAN_AGENCIES__GLOBAL: <p>United Nations Environment Programme (UNEP)</p>
+SDG_RELATED_INDICATORS__GLOBAL: >-
+  <p>The 10-year framework of programmes on Sustainable Consumption and
+  Production is linked to all targets of SDG 12, literature research shows that
+  SDG 12 is connected to a total of 16 other SDGs - making SCP the number one
+  most cross-cutting theme across the SDGs.</p>
+
+  <p>Main Associated SDG indicators: 12.7.1; </p>
+
+  <p>Linked SDGs: 12.2.1/8.4.1, 12.2.2/8.4.2, 12.3.1, 12.5.1, 12.6.1, 12.8.1,
+  12.a.1, 12.b.1, 12.c.1, 13.2.1, 14.c.1, 14.6.1, 15.8.1 </p>
+
+  <p>Considering that the development, adoption and implementation of policy
+  instruments integrating SCP are creating the enabling environment for
+  sustainable development, there are potentially many more associated SDGs,
+  targets and indicators.</p>
+SDG_INDICATOR_INFO: >
+  National policy on the Environment (2016), National Policy on Solid Waste
+  Management (2020), National Renewable Energy Efficiency Policy (NREEP)
+SDG_GOAL: ''
+SDG_TARGET: ''
+SDG_INDICATOR: ''
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: ''
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: ''
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: |
+  National Environmental Standards and Regulations Enforcement Agency (NESREA)
+COMPILING_ORG: ''
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: ''
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: ''
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: ''

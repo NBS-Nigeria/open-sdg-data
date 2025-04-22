@@ -1,0 +1,72 @@
+﻿SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 6.3.1: Proportion of domestic and industrial wastewater flows
+  safely treated</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 6.3: By 2030, improve water quality by reducing pollution,
+  eliminating dumping and minimizing release of hazardous chemicals and
+  materials, halving the proportion of untreated wastewater and substantially
+  increasing recycling and safe reuse globally</p>
+META_LAST_UPDATE__GLOBAL: '2024-09-27'
+SDG_CUSTODIAN_AGENCIES__GLOBAL: |-
+  <p>United Nations Human Settlements Programme (UN-Habitat)</p>
+  <p>World Health Organization (WHO)</p>
+  <p>United Nations Statistics Division (UNSD)</p>
+SDG_RELATED_INDICATORS__GLOBAL: >-
+  <p>The domestic portion of wastewater treated is closely linked to indicator
+  6.2.1a on the &#x201C;proportion of population using safely managed sanitation
+  services&#x201D;, and draws upon some of the same data sources. </p>
+
+  <p>The indicator is also directly linked to indicator 6.3.2 on the
+  &#x201C;proportion of bodies of water with good ambient water quality&#x201D;,
+  because unsafe wastewater treatment leads to degradation in quality of the
+  receiving waters. It directly informs progress towards target 6.3 and is
+  strongly linked to target 6.6 on water-related ecosystems, as well as target
+  14.1 on marine pollution (coastal eutrophication).</p>
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: ''
+SDG_TARGET: ''
+SDG_INDICATOR: ''
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Proportion of wastewater generated both by households (sewage and faecal
+  sludge), as well as economic activities (based on ISIC categories) safely
+  treated compared to total waste water generated both through households and
+  economic activities. While the definition conceptually includes wastewater
+  generated from all economic activities, monitoring will focus on wasterwater
+  generated from hazardous industries (as defined by relevant ISIC categories)
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: ''
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: ''
+COMPILING_ORG: ''
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: ''
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: ''
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: ''

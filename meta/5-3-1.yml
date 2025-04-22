@@ -1,0 +1,61 @@
+﻿SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 5.3.1: Proportion of women aged 20&#x2013;24 years who were
+  married or in a union before age 15 and before age 18</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 5.3: Eliminate all harmful practices, such as child, early and
+  forced marriage and female genital mutilation</p>
+META_LAST_UPDATE__GLOBAL: '2024-07-29'
+SDG_CUSTODIAN_AGENCIES__GLOBAL: <p>United Nations Children&apos;s Fund (UNICEF)</p>
+SDG_RELATED_INDICATORS__GLOBAL: <p>Not applicable</p>
+SDG_INDICATOR_INFO: >-
+  <b>Proxy: </b> Percentage of women age 15-49 years who first married or
+  entered a marital union before their 15th birthday, Percentage of women age
+  20-49 and 20-24 years who first married or entered a marital union before
+  their 15th and 18th birthdays, Percentage of women age 15-19 years who
+  currently married or in a union, and the percentage of women who are in a
+  polygamous marriage or union.
+SDG_GOAL: ''
+SDG_TARGET: ''
+SDG_INDICATOR: ''
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  This indicator provides the proportion of women aged 20 to 24 years who were
+  first married or in union by age 18.  It is calculated by dividing the number
+  of women aged 20-24 who were first married or in union by age 18 by the total
+  number of women aged 20-24 in the population.
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: Multiple Indicator Cluster Survey (MICS 6)
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: National Bureau of Statistics (NBS)
+COMPILING_ORG: ''
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: ''
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: ''
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: ''

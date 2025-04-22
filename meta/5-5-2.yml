@@ -1,0 +1,81 @@
+﻿SDG_INDICATOR__GLOBAL: '<p>Indicator 5.5.2: Proportion of women in managerial positions</p>'
+SDG_TARGET__GLOBAL: >-
+  <p>Target 5.5: Ensure women&#x2019;s full and effective participation and
+  equal opportunities for leadership at all levels of decision-making in
+  political, economic and public life</p>
+META_LAST_UPDATE__GLOBAL: '2025-03-28'
+SDG_CUSTODIAN_AGENCIES__GLOBAL: <p>International Labour Organization (ILO)</p>
+SDG_RELATED_INDICATORS__GLOBAL: <p>8.5.1</p>
+SDG_INDICATOR_INFO: >
+  <b>Proxy: </b> Number of occupants of political positions at Local Government
+  Proportion of women in senior and middle management positions (%)
+SDG_GOAL: ''
+SDG_TARGET: ''
+SDG_INDICATOR: ''
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  "The indicator proposed measure the proportion of women in leadership
+  positions across a number of areas, including:                   
+
+  • in the executive branch of government:  
+
+  o  Number of women Heads of State and Governments as a percentage of total
+  (Tier 1) 
+
+  o  Number of ministerial positions that are held by women as a percentage of
+  total (Tier 1 – part of Minimum set of gender indicators) 
+
+  o  Number of leadership positions held by women in local governments as a
+  percentage of total (Tier 3) 
+
+  •  in the legislative branch of government: 
+
+  o  Number of seats in national parliaments held by women as a percentage of
+  total (Tier 1 – part of Minimum set of gender indicators) 
+
+  • in the judiciary branch of government and law enforcement:
+
+  o  Number of women judges as a percentage of total (Tier 2 - – part of Minimum
+  set of gender indicators) 
+
+  o  Number of women police officers as a percentage of total (Tier 2 – part of
+  Minimum set of gender indicators) ; and 
+
+  o  the share of managers in public and private sector enterprises that are
+  women (Tier 1 – part of Minimum set of gender indicators)."
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: 2022 Statistical report on Women and Men in Nigeria
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: National Bureau of Statistics (NBS)
+COMPILING_ORG: ''
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: ''
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: ''
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: ''

@@ -1,0 +1,73 @@
+﻿SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 3.7.1: Proportion of women of reproductive age (aged 15&#x2013;49
+  years) who have their need for family planning satisfied with modern
+  methods</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 3.7: By 2030, ensure universal access to sexual and reproductive
+  health-care services, including for family planning, information and
+  education, and the integration of reproductive health into national strategies
+  and programmes</p>
+META_LAST_UPDATE__GLOBAL: '2024-03-28'
+SDG_CUSTODIAN_AGENCIES__GLOBAL: |-
+  <p>Population Division, Department of Economic and Social Affairs (DESA)</p>
+  <p>United Nations Population Fund (UNFPA)</p>
+SDG_RELATED_INDICATORS__GLOBAL: >-
+  <p>This indicator is linked to Target 3.8 (Achieve universal health coverage,
+  including financial risk protection, access to quality essential health-care
+  services and access to safe, effective, quality and affordable essential
+  medicines and vaccines for all) because the provision of family planning
+  information and methods to all individuals who want to prevent pregnancy is an
+  important component of achieving universal health coverage.</p>
+
+  <p>This indicator is also linked to Target 5.6 (Ensure universal access to
+  sexual and reproductive health and reproductive rights as agreed in accordance
+  with the Programme of Action of the International Conference on Population and
+  Development and the Beijing Platform for Action and the outcome documents of
+  their review conferences) because meeting the demand for family planning is
+  facilitated by increasing access to sexual and reproductive health-care
+  services, and also improves sexual and reproductive health and the ability to
+  exercise reproductive rights.</p>
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: ''
+SDG_TARGET: ''
+SDG_INDICATOR: ''
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Percentage of women of reproductive age (15-49 years) who are sexually active
+  who have their need for family planning satisfied with modern methods.
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: Surveys; MICS
+SOURCE_TYPE: 'Multiple Indicator Cluster Survey (MICS) '
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: National Bureau of Statistics (NBS)
+COMPILING_ORG: ''
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: ''
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: ''
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: ''

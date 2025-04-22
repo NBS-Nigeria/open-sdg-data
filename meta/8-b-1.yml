@@ -1,0 +1,64 @@
+﻿SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 8.b.1: Existence of a developed and operationalized national
+  strategy for youth employment, as a distinct strategy or as part of a national
+  employment strategy </p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 8.b: By 2020, develop and operationalize a global strategy for youth
+  employment and implement the Global Jobs Pact of the International Labour
+  Organization</p>
+META_LAST_UPDATE__GLOBAL: '2025-03-28'
+SDG_CUSTODIAN_AGENCIES__GLOBAL: <p>International Labour Organization (ILO)</p>
+SDG_RELATED_INDICATORS__GLOBAL: <p>8.5.2; 8.6.1; 8.7.1</p>
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: ''
+SDG_TARGET: ''
+SDG_INDICATOR: ''
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >
+  Represents the total public expenditure in social protection and employment
+  programmes expressed as a percentage of the national budget and the Gross
+  Domestic Product (GDP). It also includes the collective bargaining coverage
+  rate, which is calculated as the percentage of employees whose pay and
+  conditions of employment are determined by one or more collective agreements.
+  A collective bargaining agreement refers to "all agreements in writing
+  regarding working conditions and terms of employment concluded between an
+  employer, a group of employers or one or more employers' organizations, on the
+  one hand, and one or more representative workers' organizations, on the other"
+  (ILO Collective Agreements Recommendation, 1951)
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: ''
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: |
+  Ministry of youth & Development
+COMPILING_ORG: ''
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: ''
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: ''
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: ''
