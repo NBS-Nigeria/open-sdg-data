@@ -14,7 +14,7 @@ WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (
 #1-a-2,complete,UNESCO Institute for Statistics (UNESCO-UIS),,,,,line
 #1-b-1,complete,"UNICEF, Save the Children",,,,,line
 #10-1-1,complete,World Bank (WB),,,,,line
-#10-2-1,notstarted,World Bank (WB),,,,,line
+#10-2-1,complete,World Bank (WB),,,,,line
 #10-3-1,complete,Office of the United Nations High Commissioner for Human Rights (OHCHR),,True,,,line
 #10-4-1,complete,International Labour Organization (ILO),,,,Percentage (%),line
 #10-4-2,complete,"Institutional information: The World Bank is the official custodian for this indicator. This metadata documentation was developed and agreed upon by the three institutional data providers, Commitment to Equity (CEQ) Institute, OECD and The World Bank (WB).",,,,Percentage (%),line
@@ -90,7 +90,7 @@ International Union for Conservation of Nature (IUCN)
 UN Environment Programme World Conservation Monitoring Centre (UNEP-WCMC)
 UN Environment Programme",,,,,line
 #15-2-1,complete,Food and Agriculture Organization of the United Nations (FAO) ,,,,,line
-#15-3-1,notstarted,"United Nations Convention to Combat Desertification (UNCCD) and partners, including: Conservation International (CI), European Space Agency (ESA), Food and Agriculture Organization of the United Nations (FAO), Group on Earth Observation Land Degradation Neutrality Initiative (GEO-LDN), International Soil Reference and Information Centre (ISRIC), International Union for Conservation of Nature (IUCN), Joint Research Centre of the European Commission (JRC), United Nations Statistics Division (UNSD), United Nations Development Programme (UNDP), United Nations Environment (UNEP), World Resources Institute (WRI), United Nations Framework Convention on Climate Change (UNFCCC) and Convention on Biological Diversity (CBD).",,,,,line
+#15-3-1,complete,"United Nations Convention to Combat Desertification (UNCCD) and partners, including: Conservation International (CI), European Space Agency (ESA), Food and Agriculture Organization of the United Nations (FAO), Group on Earth Observation Land Degradation Neutrality Initiative (GEO-LDN), International Soil Reference and Information Centre (ISRIC), International Union for Conservation of Nature (IUCN), Joint Research Centre of the European Commission (JRC), United Nations Statistics Division (UNSD), United Nations Development Programme (UNDP), United Nations Environment (UNEP), World Resources Institute (WRI), United Nations Framework Convention on Climate Change (UNFCCC) and Convention on Biological Diversity (CBD).",,,,,line
 #15-4-1,complete,"BirdLife International (BLI)
 International Union for Conservation of Nature (IUCN)
 UN Environment Programme World Conservation Monitoring Centre (UNEP-WCMC)
