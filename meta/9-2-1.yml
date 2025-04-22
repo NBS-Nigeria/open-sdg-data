@@ -1,0 +1,68 @@
+﻿SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 9.2.1: Manufacturing value added as a proportion of GDP and per
+  capita</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 9.2: Promote inclusive and sustainable industrialization and, by
+  2030, significantly raise industry&#x2019;s share of employment and gross
+  domestic product, in line with national circumstances, and double its share in
+  least developed countries</p>
+META_LAST_UPDATE__GLOBAL: '2023-12-15'
+SDG_CUSTODIAN_AGENCIES__GLOBAL: <p>United Nations Industrial Development Organization (UNIDO)</p>
+SDG_RELATED_INDICATORS__GLOBAL: >-
+  <p>1.1.1: Proportion of the population living below the international poverty
+  line by sex, age, employment status and geographic location (urban/rural)</p>
+
+  <p>8.1.1: Annual growth rate of real GDP per capita</p>
+
+  <p>10.2.1: Proportion of people living below 50 per cent of median income, by
+  sex, age and persons with disabilities</p>
+
+  <p>10.4.1: Labour share of GDP</p>
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: ''
+SDG_TARGET: ''
+SDG_INDICATOR: ''
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >
+  Manufacturing value-added (MVA) is the total value of goods and services net
+  of intermediate consumption. It is generally compiled as the sum of the value
+  added of all manufacturing activity units in operation in the reference
+  period. It can be presented in percentage to gross domestic product (GDP) as
+  well as per capita by for any reference year. MVA growth rates are given at
+  Constant Prices.
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: ''
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: ''
+COMPILING_ORG: ''
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: ''
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: ''
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: ''

@@ -1,0 +1,55 @@
+﻿SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 4.3.1: Participation rate of youth and adults in formal and
+  non-formal education and training in the previous 12 months, by sex</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 4.3: By 2030, ensure equal access for all women and men to
+  affordable and quality technical, vocational and tertiary education, including
+  university</p>
+META_LAST_UPDATE__GLOBAL: '2024-07-29'
+SDG_CUSTODIAN_AGENCIES__GLOBAL: <p>UNESCO Institute for Statistics (UIS)</p>
+SDG_RELATED_INDICATORS__GLOBAL: '<p>1.4, 4.4, 4.5, 5.b, 8.5, 9.2</p>'
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: ''
+SDG_TARGET: ''
+SDG_INDICATOR: ''
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  The percentage of youth and adults in a given age range (e.g. 15-24 years,
+  25-64 years, etc) participating in formal or non-formal education in a given
+  time period (at least three months)
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: ''
+COLL_METHOD: Derived Data
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: National Bureau of Statistics (NBS)
+COMPILING_ORG: ''
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: ''
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: ''
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: ''

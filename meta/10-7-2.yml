@@ -1,0 +1,86 @@
+﻿SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 10.7.2: Proportion of countries with migration policies that
+  facilitate orderly, safe, regular and responsible migration and mobility of
+  people</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 10.7: Facilitate orderly, safe, regular and responsible migration
+  and mobility of people, including through the implementation of planned and
+  well-managed migration policies</p>
+META_LAST_UPDATE__GLOBAL: '2023-03-31'
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  <p>International Organization for Migration (IOM) and United Nations
+  Department of Economic and Social Affairs (DESA) as custodian agencies</p>
+SDG_RELATED_INDICATORS__GLOBAL: >-
+  <p>Indicator 10.7.2 is complementary to several related SDGs indicators. These
+  include, but are not limited to: </p>
+
+  <p>Indicator 8.8.1 &#x201C;Frequency rates of fatal and non-fatal occupational
+  injuries, by sex and migrant status&#x201D;;</p>
+
+  <p>Indicator 8.8.2. &#x201C;Level of national compliance of labour rights
+  (freedom of association and collective bargaining) based on International
+  Labour Organization (ILO) textual sources and national legislation, by sex and
+  migrant status&#x201D;;</p>
+
+  <p>Indicator 10.7.1. &#x201C;Recruitment cost borne by employee as a
+  proportion of yearly income earned in country of destination&#x201D;;</p>
+
+  <p>Indicator 10.7.3. &#x201C;Number of people who died or disappeared in the
+  process of migration towards an international destination&#x201D;;</p>
+
+  <p>Indicator 10.7.4. &#x201C;Proportion of the population who are refugees, by
+  country of origin&#x201D;;</p>
+
+  <p>Indicator 10.c.1 &#x201C;Remittance costs as a proportion of the amount
+  remitted&#x201D;.</p>
+
+  <p>Indicator 10.7.2 is also complementary to other national migration
+  monitoring frameworks, including IOM&#x2019;s MGI, which entered its third
+  phase in 2018. The MGI operates as a policy-benchmarking framework and offers
+  insights into policy levers that countries could use to further develop their
+  migration governance. It contains nearly 90 questions related to
+  countries&#x2019; national migration policies, which fall under the same six
+  domains as indicator 10.7.2.</p>
+SDG_INDICATOR_INFO: |
+  <b>Proxy: </b> Implementation of well-managed policies
+SDG_GOAL: ''
+SDG_TARGET: ''
+SDG_INDICATOR: ''
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: ''
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: ''
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: ''
+COMPILING_ORG: ''
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: ''
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: ''
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: ''
