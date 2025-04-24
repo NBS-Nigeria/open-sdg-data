@@ -56,7 +56,6 @@ United Nations Environment Programme (UNEP)",,,,,line
 #12-8-1,complete,"UNESCO Education Sector, Division for Peace and Sustainable Development, Section of Education for Sustainable Development (UNESCO-ED/PSD/ESD)
 UNESCO Institute for Statistics (UNESCO-UIS)",True,,,,line
 #12-a-1,complete,International Renewable Energy Agency (IRENA),,,,watts per capita,line
-#12-b-1,notstarted,World Tourism Organization (UNWTO),,,,,line
 #12-c-1,complete,United Nations Environment Programme (UNEP),,,,Percentage (%),line
 #13-1-1,complete,United Nations Office for Disaster Reduction (UNDRR),,,,No per 100000,line
 #13-1-2,complete,United Nations Office for Disaster Reduction (UNDRR),True,,,,line
@@ -91,11 +90,9 @@ UN Environment Programme",,,,,line
 #15-4-2,complete,Food and Agriculture Organization of the United Nations (FAO),,,,,line
 #15-5-1,complete,International Union for Conservation of Nature (IUCN),,,,,line
 #15-6-1,complete,Secretariat of the Convention on Biological Diversity (CBD),True,,,,line
-#15-7-1,notstarted,United Nations Office on Drugs and Crime (UNODC),,,,,line
 #15-8-1,complete,International Union for Conservation of Nature (IUCN),True,,,,line
 #15-9-1,complete,"United Nations Environment Programme (UNEP), Convention on Biological Diversity (CBD), United Nations Statistics Division (UNSD) ",True,,,,line
 #15-a-1,complete,Organisation for Economic Cooperation and Development (OECD),,,,,line
-#15-b-1,notstarted,Organisation for Economic Cooperation and Development (OECD),,,,,line
 #15-c-1,notstarted,United Nations Office on Drugs and Crime (UNODC),,,,,line
 #16-1-1,complete,"United Nations Office on Drugs and Crime (UNODC), World Health Organization (WHO)",,True,,,line
 #16-1-2,notstarted,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,,line
@@ -134,6 +131,8 @@ The World Trade Organization (WTO)",,,,,line
 United Nations Conference on Trade and Development (UNCTAD)
 The World Trade Organization (WTO)",,,,,line
 #17-13-1,complete,World Bank,,,,,bar
+#17-15-1,notstarted,"Organisation for Economic Co-operation and Development (OECD)
+United Nations Development Programme (UNDP)",,,,,line
 #17-16-1,complete,"Organisation for Economic Co-operation and Development (OECD)
 United Nations Development Programme (UNDP)",True,,,,line
 #17-17-1,complete,World Bank,,,,,line
