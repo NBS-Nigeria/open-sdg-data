@@ -2,7 +2,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #1-1-1,complete,International Labour Organization (ILO),,,,Percentage,line
 #1-2-1,complete,World Bank,,True,,Percentage (%),line
 #1-2-2,complete,"The World Bank, United Nations Children&#x2019;s Fund (UNICEF), United Nations Development Programme (UNDP)",,True,,,line
-#1-3-1,complete,International Labour Organization (ILO),,True,,,line
+#1-3-1,complete,World Bank (WB),,True,,,line
 #1-4-1,complete,"United Nations Human Settlements Programme (UN-Habitat)
 WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (1.4.1a, b and c)",,True,,,line
 #1-4-2,complete,UN-Habitat and World Bank,,True,,,line
@@ -12,7 +12,7 @@ WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene (
 #1-5-4,complete,United Nations Office for Disaster Reduction (UNDRR),,,,,line
 #1-a-1,complete,OECD,,,,,line
 #1-a-2,complete,UNESCO Institute for Statistics (UNESCO-UIS),,,,,line
-#1-b-1,complete,"UNICEF, Save the Children",,,,,line
+#1-b-1,complete,"United Nations Children&#x2019;s Fund (UNICEF), Save the Children",,,,,line
 #10-1-1,complete,World Bank (WB),,,,,line
 #10-2-1,complete,World Bank (WB),,,,,line
 #10-3-1,complete,Office of the United Nations High Commissioner for Human Rights (OHCHR),,True,,,line
@@ -32,21 +32,21 @@ The World Trade Organization (WTO)",,,,,line
 #11-1-1,complete,United Nations Human Settlements Programme (UN-Habitat) ,,,,,line
 #11-2-1,notstarted,United Nations Human Settlements Programme (UN-Habitat),,,,,line
 #11-3-1,complete,United Nations Human Settlements Programme (UN-Habitat),,,,,line
-#11-3-2,notstarted,UN-Habitat,,,,,line
-#11-5-1,notstarted,United Nations Office for Disaster Reduction (UNDRR),,,,,line
+#11-3-2,notstarted,United Nations Human Settlements Programme (UN-Habitat),,,,,line
+#11-5-1,complete,United Nations Office for Disaster Reduction (UNDRR),,True,,,line
 #11-5-2,complete,United Nations Office for Disaster Reduction (UNDRR),,,,,bar
 #11-6-2,complete,World Health Organization (WHO),,,,,line
-#11-7-1,notstarted,UN-HABITAT,,,,,line
+#11-7-1,notstarted,United Nations Human Settlements Programme (UN-Habitat),,,,,line
 #11-7-2,complete,"United Nations Office on Drugs and Crime (UNODC)
 ",,True,,Percentage (%),line
-#11-a-1,complete,"UN-Habitat
-UNFPA",True,,,,line
+#11-a-1,complete,"United Nations Human Settlements Programme (UN-Habitat)
+United Nations Population Fund (UNFPA)",True,,,,line
 #11-b-1,complete,United Nations Office for Disaster Reduction (UNDRR),True,,,,line
 #11-b-2,complete,United Nations Office for Disaster Reduction (UNDRR),,,,,line
 #12-1-1,complete,United Nations Environment Programme (UNEP),True,,,,line
 #12-2-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
 #12-2-2,complete,United Nations Environment Programme (UNEP),,,,Tonne,line
-#12-3-1,notstarted,United Nations Environment Programme (UNEP) ,,,,,line
+#12-3-1,complete,United Nations Environment Programme (UNEP) ,,,,,line
 #12-4-1,complete,United Nations Environment Programme (UNEP),True,,,,line
 #12-4-2,notstarted,"United Nations Environment Programme (UNEP), United Nations Statistics Division (UNSD), United Nations Institute for Training and Research (UNITAR)",,,,,line
 #12-5-1,notstarted,"United Nations Environment Programme (UNEP), United Nations Statistics Division (UNSD), United Nations Institute for Training and Research (UNITAR)",,,,,line
@@ -54,7 +54,8 @@ UNFPA",True,,,,line
 United Nations Environment Programme (UNEP)",,,,,line
 #12-7-1,notstarted,United Nations Environment Programme (UNEP),,,,,line
 #12-8-1,complete,"UNESCO Education Sector, Division for Peace and Sustainable Development, Section of Education for Sustainable Development (UNESCO-ED/PSD/ESD)
-UNESCO Institute for Statistics (UNESCO-UIS)",True,,,,line
+UNESCO Institute for Statistics (UNESCO-UIS)
+Global Education Monitoring Report",True,,,,line
 #12-a-1,complete,International Renewable Energy Agency (IRENA),,,,watts per capita,line
 #12-c-1,complete,United Nations Environment Programme (UNEP),,,,Percentage (%),line
 #13-1-1,complete,United Nations Office for Disaster Reduction (UNDRR),,,,No per 100000,line
@@ -63,7 +64,8 @@ UNESCO Institute for Statistics (UNESCO-UIS)",True,,,,line
 #13-2-1,complete,UN Climate Change (UNFCCC Secretariat),True,,,,line
 #13-2-2,complete,UN Climate Change (UNFCCC Secretariat),,,,,line
 #13-3-1,complete,"UNESCO Education Sector, Division for Peace and Sustainable Development, Section of Education for Sustainable Development (UNESCO-ED/PSD/ESD)
-UNESCO Institute for Statistics (UNESCO-UIS)",True,,,,line
+UNESCO Institute for Statistics (UNESCO-UIS)
+Global Education Monitoring Report",True,,,,line
 #13-a-1,complete,UN Climate Change (UNFCCC Secretariat),,,,,line
 #14-1-1,complete,United Nations Environment Programme (UNEP),,,,,bar
 #14-2-1,complete,United Nations Environment Programme (UNEP),True,,,,line
@@ -93,17 +95,18 @@ UN Environment Programme",,,,,line
 #15-8-1,complete,International Union for Conservation of Nature (IUCN),True,,,,line
 #15-9-1,complete,"United Nations Environment Programme (UNEP), Convention on Biological Diversity (CBD), United Nations Statistics Division (UNSD) ",True,,,,line
 #15-a-1,complete,Organisation for Economic Cooperation and Development (OECD),,,,,line
+#15-b-1,complete,Organisation for Economic Cooperation and Development (OECD),,,,,line
 #15-c-1,notstarted,United Nations Office on Drugs and Crime (UNODC),,,,,line
 #16-1-1,complete,"United Nations Office on Drugs and Crime (UNODC), World Health Organization (WHO)",,True,,,line
-#16-1-2,notstarted,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,,line
-#16-1-3,notstarted,United Nations Office on Drugs and Crime (UNODC),,,,,line
+#16-1-2,complete,Office of the United Nations High Commissioner for Human Rights (OHCHR),,,,,line
+#16-1-3,complete,United Nations Office on Drugs and Crime (UNODC),,True,,,line
 #16-1-4,complete,United Nations Office on Drugs and Crime (UNODC),,True,,,line
 #16-10-1,notstarted,"Office of the United Nations High Commissioner for Human Rights (OHCHR) United Nations Educational, Scientific and Cultural Organization (UNESCO) International Labour Organization (ILO)",,,,,line
 #16-10-2,complete,"United Nations Educational, Scientific and Cultural Organization (UNESCO)",True,,,,line
 #16-2-1,complete,United Nations Children&apos;s Fund (UNICEF),,True,,,line
 #16-2-2,complete,United Nations Office on Drugs and Crime (UNODC),,,,,line
 #16-2-3,complete,United Nations Children&apos;s Fund (UNICEF),,,,,line
-#16-3-1,notstarted,United Nations Office on Drugs and Crime (UNODC),,,,,line
+#16-3-1,complete,United Nations Office on Drugs and Crime (UNODC),,,,,line
 #16-3-2,complete,United Nations Office on Drugs and Crime (UNODC),,,,,line
 #16-3-3,complete,"United Nations Development Programme (UNDP), United Nations Office on Drugs and Crime (UNODC) and Organization for Economic Cooperation and Development (OECD)",,,,,line
 #16-4-1,complete,United Nations Office on Drugs and Crime (UNODC) and United Nations Conference on Trade and Development (UNCTAD),,,,,line
@@ -112,8 +115,8 @@ UN Environment Programme",,,,,line
 #16-5-2,notstarted,World Bank (WB),,,,,line
 #16-6-1,complete,World Bank (WB),,,,Percentage (%),bar
 #16-6-2,notstarted,United Nations Development Programme (UNDP) ,,,,,line
-#16-7-1,notstarted,UNDP Oslo Governance Centre,,,,,line
-#16-7-2,notstarted,UNDP Oslo Governance Centre,,,,,line
+#16-7-1,complete,UNDP Oslo Governance Centre,,,,,line
+#16-7-2,complete,UNDP Oslo Governance Centre,,,,,line
 #16-8-1,complete,"Financing for Sustainable Development Office (FSDO), United Nations Department of Economic and Social Affairs (UN-DESA)
 ",True,,,,line
 #16-9-1,complete,United Nations Children&apos;s Fund (UNICEF),,True,,,line
@@ -136,17 +139,16 @@ United Nations Development Programme (UNDP)",,,,,line
 #17-16-1,complete,"Organisation for Economic Co-operation and Development (OECD)
 United Nations Development Programme (UNDP)",True,,,,line
 #17-17-1,complete,World Bank,,,,,line
-#17-18-1,notstarted,Open Data Watch (ODW),,,,,line
 #17-18-2,complete,Partnership in Statistics for Development in the 21st Century (PARIS21),True,,,,line
 #17-18-3,complete,Partnership in Statistics for Development in the 21st Century (PARIS21),True,,,,line
 #17-19-1,complete,Partnership in Statistics for Development in the 21st Century (PARIS21),,,,,line
 #17-19-2,complete,"United Nations Statistics Division (UNSD), Department of Economic and Social Affairs, United Nations (UN DESA)",True,,,,line
 #17-2-1,complete,Organisation for Economic Co-operation and Development (OECD),,,,,line
-#17-3-1,notstarted,International Forum on TOSSD (independent entity hosted by the OECD) and UNCTAD,,,,,line
+#17-3-1,complete,International Forum on TOSSD (independent entity hosted by the OECD) and UNCTAD,,,,,line
 #17-3-2,complete,World Bank (WB),,,,Percentage (%),line
 #17-4-1,complete,World Bank (WB),,,,Percentage (%),line
 #17-5-1,complete,United Nations Conference on Trade and Development (UNCTAD),True,,,,line
-#17-6-1,notstarted,International Telecommunication Union (ITU),,,,,line
+#17-6-1,complete,International Telecommunication Union (ITU),,,,,bar
 #17-8-1,complete,International Telecommunication Union (ITU),,True,,Percentage (%),bar
 #17-9-1,complete,Organisation for Economic Co-operation and Development (OECD),,,,USD (Millions),line
 #2-1-1,complete,Food and Agriculture Organization of the United Nations (FAO),,,,,line
@@ -156,6 +158,7 @@ World Health Organization (WHO)",,True,,,line
 #2-2-2,complete,"United Nations Children&apos;s Fund (UNICEF)
 World Health Organization (WHO)",,True,,,line
 #2-2-3,complete,World Health Organization (WHO),,True,,,line
+#2-2-4,notstarted,Food and Agriculture Organization of the United Nations (FAO),True,,,,line
 #2-3-1,complete,Food and Agriculture Organization (FAO),,True,,,line
 #2-3-2,notstarted,Food and Agriculture Organization (FAO),,,,,line
 #2-4-1,complete,Food and Agriculture Organization of the United Nations (FAO),,,,,line
@@ -203,7 +206,8 @@ United Nations Population Fund (UNFPA)",,True,,,line
 #4-5-1,complete,UNESCO Institute for Statistics (UIS),,True,,,line
 #4-6-1,complete,UNESCO Institute for Statistics (UIS),,True,,,line
 #4-7-1,complete,"UNESCO Education Sector, Division for Peace and Sustainable Development, Section of Education for Sustainable Development (UNESCO-ED/PSD/ESD)
-UNESCO Institute for Statistics (UNESCO-UIS)",True,,,,line
+UNESCO Institute for Statistics (UNESCO-UIS)
+Global Education Monitoring Report",True,,,,line
 #4-a-1,complete,UNESCO Institute for Statistics (UIS),,True,,,line
 #4-b-1,complete,Organisation for Economic Co-operation and Development (OECD),,,,,line
 #4-c-1,complete,UNESCO Institute for Statistics (UNESCO-UIS),,,,,line
@@ -222,7 +226,7 @@ United Nations Population Fund (UNFPA)",,True,,Percentage (%),line
 #5-3-1,complete,United Nations Children&apos;s Fund (UNICEF),,,,Percentage (%),line
 #5-3-2,complete,United Nations Children&apos;s Fund (UNICEF),,True,,Percentage (%),line
 #5-4-1,notstarted,UN Statistics Division (UNSD) and UN WOMEN,,,,,line
-#5-5-1,complete,United Nations Entity for Gender Equality and the Empowerment of Women (UN-Women),,,,Percentage (%),line
+#5-5-1,complete,Inter-Parliamentary Union (IPU),,,,Percentage (%),line
 #5-5-2,complete,International Labour Organization (ILO),,,,Percentage (%),line
 #5-6-1,complete,United Nations Population Fund (UNFPA),,True,,Percentage (%),line
 #5-6-2,complete,United Nations Population Fund (UNFPA),True,,,,line
@@ -238,7 +242,7 @@ United Nations Children&apos;s Fund (UNICEF)",,True,,Percentage (%),line
 World Health Organization (WHO)
 United Nations Statistics Division (UNSD)",,,,Percentage (%),line
 #6-3-2,complete,United Nations Environment Programme (UNEP),,,,Percentage (%),line
-#6-4-1,notstarted,Food and Agriculture Organization of the United Nations (FAO),,,,,line
+#6-4-1,complete,Food and Agriculture Organization of the United Nations (FAO),,,,,line
 #6-4-2,complete,Food and Agriculture Organization of the United Nations (FAO),,,,,line
 #6-5-1,complete,United Nations Environment Programme (UNEP),,,,,line
 #6-5-2,notstarted,"Intergovernmental Hydrological Programme of United Nations Educational, Scientific and Cultural Organization (UNESCO-IHP)
@@ -273,9 +277,10 @@ International Labour Organization (ILO)",,True,,,line
 #8-8-1,notstarted,International Labour Organisation (ILO),,,,,line
 #8-8-2,complete,International Labour Organization (ILO),,,,,line
 #8-9-1,complete,World Tourism Organization (UNWTO) ,,,,Percentage (%),line
+#8-9-2,notstarted,World Tourism Organization (UN Tourism) with the collaboration of the International Labour Organization (ILO).,True,,,,line
 #8-a-1,complete,Organisation for Economic Co-operation and Development (OECD) ,,,,,line
 #8-b-1,complete,International Labour Organization (ILO),True,,,,line
-#9-1-1,notstarted,World Bank,,,,,line
+#9-1-1,complete,World Bank,,True,,,line
 #9-1-2,complete,International Civil Aviation Organization (ICAO); International Transport Forum (ITF); United Nations Conference on Trade and Development (UNCTAD).,,,,,line
 #9-2-1,complete,United Nations Industrial Development Organization (UNIDO),,,,Percentage (%),line
 #9-2-2,complete,"United Nations Industrial Development Organization (UNIDO)
