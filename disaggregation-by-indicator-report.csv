@@ -75,6 +75,7 @@ Indicator,Disaggregations,Number of disaggregations
 #8-10-2,"Gender, Sector, Wealth Index Quintile, Geopolitical zone, Ethnicity, State, Age group",7
 #8-3-1,"Gender, Sector, Period",3
 #8-5-2,"Gender, Sector, Age group, Period",4
+#8-6-1,"Gender, State, Period",3
 #8-7-1,"Gender, Sector, Geopolitical zone, State",4
 #9-1-1,"Geopolitical zone, State, Distance",3
 #9-c-1,Sector,1
