@@ -1,0 +1,352 @@
+Year,Series,Category of disaster effect,State,Unit multiplier,Units,GeoCode,Value
+2022,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",Deaths,,Units,Number,NG,0.02
+2022,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",Displaced Persons,,Units,Number,NG,26.05
+2022,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",Directly Affected Persons,,Units,Number,NG,48.77
+2023,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",Deaths,,Units,Number,NG,0.01
+2023,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",Displaced Persons,,Units,Number,NG,2.76
+2023,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",Directly Affected Persons,,Units,Number,NG,6.43
+2024,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",Deaths,,Units,Number,NG,0.01
+2024,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",Displaced Persons,,Units,Number,NG,1.90
+2024,"Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",Directly Affected Persons,,Units,Number,NG,5.56
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,,Units,Number,NG,1987
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,,Units,Number,NG,2604953
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,,Units,Number,NG,4877280
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,,Units,Number,NG,792
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,,Units,Number,NG,275984
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,,Units,Number,NG,642841
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,,Units,Number,NG,600
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,,Units,Number,NG,190401
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,,Units,Number,NG,556483
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Abia,Units,Number,NGAB01,37414
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Adamawa,Units,Number,NGAD02,193544
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Akwa Ibom,Units,Number,NGAK03,67688
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Anambra,Units,Number,NGAN04,730960
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Bauchi,Units,Number,NGBA05,25122
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Bayelsa,Units,Number,NGBY06,1344014
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Benue,Units,Number,NGBE07,149274
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Borno,Units,Number,NGBO08,36829
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Cross River,Units,Number,NGXR09,170082
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Delta,Units,Number,NGDE10,14786
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Ebonyi,Units,Number,NGEB11,57001
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Edo,Units,Number,NGED12,31182
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Ekiti,Units,Number,NGEK13,7775
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Enugu,Units,Number,NGEN14,38035
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Gombe,Units,Number,NGGO15,36173
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Imo,Units,Number,NGIM16,89872
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Jigawa,Units,Number,NGJI17,180863
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Kaduna,Units,Number,NGKD18,16834
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Kano,Units,Number,NGKN19,101042
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Katsina,Units,Number,NGKT20,315260
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Kebbi,Units,Number,NGKE21,23891
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Kogi,Units,Number,NGKO22,472091
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Kwara,Units,Number,NGKW23,39378
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Lagos,Units,Number,NGLA24,25687
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Nasarawa,Units,Number,NGNA25,60756
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Niger,Units,Number,NGNI26,52974
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Ogun,Units,Number,NGOG27,4885
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Ondo,Units,Number,NGON28,8291
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Osun,Units,Number,NGOS29,4308
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Oyo,Units,Number,NGOY30,6194
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Plateau,Units,Number,NGPL31,40632
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Rivers,Units,Number,NGRI32,128164
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Sokoto,Units,Number,NGSO33,29784
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Taraba,Units,Number,NGTA34,197547
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Yobe,Units,Number,NGYO35,44088
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Zamfara,Units,Number,NGZA36,44025
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Federal Capital Territory,Units,Number,NGFC37,156
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Abia,Units,Number,NGAB01,14881
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Adamawa,Units,Number,NGAD02,24542
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Akwa Ibom,Units,Number,NGAK03,65036
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Anambra,Units,Number,NGAN04,528129
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Bauchi,Units,Number,NGBA05,2738
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Bayelsa,Units,Number,NGBY06,1210183
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Benue,Units,Number,NGBE07,87282
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Borno,Units,Number,NGBO08,23728
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Cross River,Units,Number,NGXR09,91276
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Delta,Units,Number,NGDE10,6146
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Ebonyi,Units,Number,NGEB11,24509
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Edo,Units,Number,NGED12,9639
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Ekiti,Units,Number,NGEK13,0
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Enugu,Units,Number,NGEN14,35260
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Gombe,Units,Number,NGGO15,3048
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Imo,Units,Number,NGIM16,35871
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Jigawa,Units,Number,NGJI17,72781
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Kaduna,Units,Number,NGKD18,11592
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Kano,Units,Number,NGKN19,1633
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Katsina,Units,Number,NGKT20,79457
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Kebbi,Units,Number,NGKE21,10624
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Kogi,Units,Number,NGKO22,1702
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Kwara,Units,Number,NGKW23,30244
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Lagos,Units,Number,NGLA24,7140
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Nasarawa,Units,Number,NGNA25,41010
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Niger,Units,Number,NGNI26,51583
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Ogun,Units,Number,NGOG27,0
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Ondo,Units,Number,NGON28,0
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Osun,Units,Number,NGOS29,185
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Oyo,Units,Number,NGOY30,897
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Plateau,Units,Number,NGPL31,23376
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Rivers,Units,Number,NGRI32,0
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Sokoto,Units,Number,NGSO33,13138
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Taraba,Units,Number,NGTA34,9461
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Yobe,Units,Number,NGYO35,48655
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Zamfara,Units,Number,NGZA36,22830
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Federal Capital Territory,Units,Number,NGFC37,676
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Abia,Units,Number,NGAB01,0
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Adamawa,Units,Number,NGAD02,18
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Akwa Ibom,Units,Number,NGAK03,14
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Anambra,Units,Number,NGAN04,77
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Bauchi,Units,Number,NGBA05,20
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Bayelsa,Units,Number,NGBY06,96
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Benue,Units,Number,NGBE07,430
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Borno,Units,Number,NGBO08,79
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Cross River,Units,Number,NGXR09,14
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Delta,Units,Number,NGDE10,0
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Ebonyi,Units,Number,NGEB11,0
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Edo,Units,Number,NGED12,0
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Ekiti,Units,Number,NGEK13,0
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Enugu,Units,Number,NGEN14,3
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Gombe,Units,Number,NGGO15,45
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Imo,Units,Number,NGIM16,4
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Jigawa,Units,Number,NGJI17,105
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Kaduna,Units,Number,NGKD18,119
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Kano,Units,Number,NGKN19,10
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Katsina,Units,Number,NGKT20,4
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Kebbi,Units,Number,NGKE21,209
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Kogi,Units,Number,NGKO22,0
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Kwara,Units,Number,NGKW23,11
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Lagos,Units,Number,NGLA24,100
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Nasarawa,Units,Number,NGNA25,80
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Niger,Units,Number,NGNI26,23
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Ogun,Units,Number,NGOG27,0
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Ondo,Units,Number,NGON28,0
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Osun,Units,Number,NGOS29,0
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Oyo,Units,Number,NGOY30,0
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Plateau,Units,Number,NGPL31,179
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Rivers,Units,Number,NGRI32,63
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Sokoto,Units,Number,NGSO33,58
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Taraba,Units,Number,NGTA34,57
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Yobe,Units,Number,NGYO35,106
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Zamfara,Units,Number,NGZA36,9
+2022,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Federal Capital Territory,Units,Number,NGFC37,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Abia,Units,Number,NGAB01,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Adamawa,Units,Number,NGAD02,54907
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Akwa Ibom,Units,Number,NGAK03,6342
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Anambra,Units,Number,NGAN04,14745
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Bauchi,Units,Number,NGBA05,24176
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Bayelsa,Units,Number,NGBY06,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Benue,Units,Number,NGBE07,1798
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Borno,Units,Number,NGBO08,10000
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Cross River,Units,Number,NGXR09,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Delta,Units,Number,NGDE10,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Ebonyi,Units,Number,NGEB11,25235
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Edo,Units,Number,NGED12,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Ekiti,Units,Number,NGEK13,6182
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Enugu,Units,Number,NGEN14,17325
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Gombe,Units,Number,NGGO15,19957
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Imo,Units,Number,NGIM16,3190
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Jigawa,Units,Number,NGJI17,4649
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Kaduna,Units,Number,NGKD18,2301
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Kano,Units,Number,NGKN19,2218
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Katsina,Units,Number,NGKT20,53785
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Kebbi,Units,Number,NGKE21,137252
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Kogi,Units,Number,NGKO22,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Kwara,Units,Number,NGKW23,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Lagos,Units,Number,NGLA24,12494
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Nasarawa,Units,Number,NGNA25,5792
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Niger,Units,Number,NGNI26,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Ogun,Units,Number,NGOG27,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Ondo,Units,Number,NGON28,9230
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Osun,Units,Number,NGOS29,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Oyo,Units,Number,NGOY30,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Plateau,Units,Number,NGPL31,4471
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Rivers,Units,Number,NGRI32,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Sokoto,Units,Number,NGSO33,16403
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Taraba,Units,Number,NGTA34,111704
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Yobe,Units,Number,NGYO35,160
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Zamfara,Units,Number,NGZA36,111704
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Federal Capital Territory,Units,Number,NGFC37,696
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Abia,Units,Number,NGAB01,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Adamawa,Units,Number,NGAD02,44465
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Akwa Ibom,Units,Number,NGAK03,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Anambra,Units,Number,NGAN04,11104
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Bauchi,Units,Number,NGBA05,9712
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Bayelsa,Units,Number,NGBY06,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Benue,Units,Number,NGBE07,1103
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Borno,Units,Number,NGBO08,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Cross River,Units,Number,NGXR09,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Delta,Units,Number,NGDE10,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Ebonyi,Units,Number,NGEB11,668
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Edo,Units,Number,NGED12,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Ekiti,Units,Number,NGEK13,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Enugu,Units,Number,NGEN14,15424
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Gombe,Units,Number,NGGO15,4523
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Imo,Units,Number,NGIM16,2100
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Jigawa,Units,Number,NGJI17,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Kaduna,Units,Number,NGKD18,385
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Kano,Units,Number,NGKN19,85
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Katsina,Units,Number,NGKT20,5333
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Kebbi,Units,Number,NGKE21,39004
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Kogi,Units,Number,NGKO22,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Kwara,Units,Number,NGKW23,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Lagos,Units,Number,NGLA24,5940
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Nasarawa,Units,Number,NGNA25,3842
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Niger,Units,Number,NGNI26,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Ogun,Units,Number,NGOG27,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Ondo,Units,Number,NGON28,2100
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Osun,Units,Number,NGOS29,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Oyo,Units,Number,NGOY30,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Plateau,Units,Number,NGPL31,2323
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Rivers,Units,Number,NGRI32,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Sokoto,Units,Number,NGSO33,6940
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Taraba,Units,Number,NGTA34,53696
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Yobe,Units,Number,NGYO35,160
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Zamfara,Units,Number,NGZA36,53696
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Federal Capital Territory,Units,Number,NGFC37,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Abia,Units,Number,NGAB01,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Adamawa,Units,Number,NGAD02,1
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Akwa Ibom,Units,Number,NGAK03,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Anambra,Units,Number,NGAN04,1
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Bauchi,Units,Number,NGBA05,4
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Bayelsa,Units,Number,NGBY06,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Benue,Units,Number,NGBE07,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Borno,Units,Number,NGBO08,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Cross River,Units,Number,NGXR09,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Delta,Units,Number,NGDE10,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Ebonyi,Units,Number,NGEB11,32
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Edo,Units,Number,NGED12,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Ekiti,Units,Number,NGEK13,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Enugu,Units,Number,NGEN14,60
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Gombe,Units,Number,NGGO15,6
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Imo,Units,Number,NGIM16,1
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Jigawa,Units,Number,NGJI17,2
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Kaduna,Units,Number,NGKD18,110
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Kano,Units,Number,NGKN19,1
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Katsina,Units,Number,NGKT20,137
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Kebbi,Units,Number,NGKE21,60
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Kogi,Units,Number,NGKO22,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Kwara,Units,Number,NGKW23,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Lagos,Units,Number,NGLA24,28
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Nasarawa,Units,Number,NGNA25,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Niger,Units,Number,NGNI26,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Ogun,Units,Number,NGOG27,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Ondo,Units,Number,NGON28,8
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Osun,Units,Number,NGOS29,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Oyo,Units,Number,NGOY30,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Plateau,Units,Number,NGPL31,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Rivers,Units,Number,NGRI32,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Sokoto,Units,Number,NGSO33,13
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Taraba,Units,Number,NGTA34,145
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Yobe,Units,Number,NGYO35,0
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Zamfara,Units,Number,NGZA36,145
+2023,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Federal Capital Territory,Units,Number,NGFC37,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Abia,Units,Number,NGAB01,15149
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Adamawa,Units,Number,NGAD02,89595
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Akwa Ibom,Units,Number,NGAK03,1571
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Anambra,Units,Number,NGAN04,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Bauchi,Units,Number,NGBA05,18463
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Bayelsa,Units,Number,NGBY06,9412
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Benue,Units,Number,NGBE07,4577
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Borno,Units,Number,NGBO08,4947
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Cross River,Units,Number,NGXR09,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Delta,Units,Number,NGDE10,1798
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Ebonyi,Units,Number,NGEB11,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Edo,Units,Number,NGED12,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Ekiti,Units,Number,NGEK13,10323
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Enugu,Units,Number,NGEN14,7763
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Gombe,Units,Number,NGGO15,1192
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Imo,Units,Number,NGIM16,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Jigawa,Units,Number,NGJI17,2115
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Kaduna,Units,Number,NGKD18,10976
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Kano,Units,Number,NGKN19,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Katsina,Units,Number,NGKT20,2251
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Kebbi,Units,Number,NGKE21,146571
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Kogi,Units,Number,NGKO22,9748
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Kwara,Units,Number,NGKW23,19247
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Lagos,Units,Number,NGLA24,10716
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Nasarawa,Units,Number,NGNA25,10219
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Niger,Units,Number,NGNI26,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Ogun,Units,Number,NGOG27,4994
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Ondo,Units,Number,NGON28,8160
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Osun,Units,Number,NGOS29,8214
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Oyo,Units,Number,NGOY30,3757
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Plateau,Units,Number,NGPL31,6871
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Rivers,Units,Number,NGRI32,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Sokoto,Units,Number,NGSO33,19094
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Taraba,Units,Number,NGTA34,47644
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Yobe,Units,Number,NGYO35,3280
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Zamfara,Units,Number,NGZA36,73923
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Directly Affected Persons,Federal Capital Territory,Units,Number,NGFC37,3913
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Abia,Units,Number,NGAB01,9720
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Adamawa,Units,Number,NGAD02,25487
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Akwa Ibom,Units,Number,NGAK03,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Anambra,Units,Number,NGAN04,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Bauchi,Units,Number,NGBA05,9901
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Bayelsa,Units,Number,NGBY06,9412
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Benue,Units,Number,NGBE07,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Borno,Units,Number,NGBO08,2325
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Cross River,Units,Number,NGXR09,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Delta,Units,Number,NGDE10,481
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Ebonyi,Units,Number,NGEB11,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Edo,Units,Number,NGED12,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Ekiti,Units,Number,NGEK13,1843
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Enugu,Units,Number,NGEN14,4343
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Gombe,Units,Number,NGGO15,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Imo,Units,Number,NGIM16,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Jigawa,Units,Number,NGJI17,26
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Kaduna,Units,Number,NGKD18,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Kano,Units,Number,NGKN19,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Katsina,Units,Number,NGKT20,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Kebbi,Units,Number,NGKE21,21638
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Kogi,Units,Number,NGKO22,16054
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Kwara,Units,Number,NGKW23,2002
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Lagos,Units,Number,NGLA24,24
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Nasarawa,Units,Number,NGNA25,6974
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Niger,Units,Number,NGNI26,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Ogun,Units,Number,NGOG27,341
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Ondo,Units,Number,NGON28,1554
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Osun,Units,Number,NGOS29,718
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Oyo,Units,Number,NGOY30,677
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Plateau,Units,Number,NGPL31,6102
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Rivers,Units,Number,NGRI32,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Sokoto,Units,Number,NGSO33,13502
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Taraba,Units,Number,NGTA34,16799
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Yobe,Units,Number,NGYO35,1738
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Zamfara,Units,Number,NGZA36,35409
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Displaced Persons,Federal Capital Territory,Units,Number,NGFC37,3331
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Abia,Units,Number,NGAB01,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Adamawa,Units,Number,NGAD02,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Akwa Ibom,Units,Number,NGAK03,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Anambra,Units,Number,NGAN04,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Bauchi,Units,Number,NGBA05,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Bayelsa,Units,Number,NGBY06,38
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Benue,Units,Number,NGBE07,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Borno,Units,Number,NGBO08,62
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Cross River,Units,Number,NGXR09,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Delta,Units,Number,NGDE10,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Ebonyi,Units,Number,NGEB11,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Edo,Units,Number,NGED12,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Ekiti,Units,Number,NGEK13,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Enugu,Units,Number,NGEN14,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Gombe,Units,Number,NGGO15,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Imo,Units,Number,NGIM16,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Jigawa,Units,Number,NGJI17,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Kaduna,Units,Number,NGKD18,104
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Kano,Units,Number,NGKN19,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Katsina,Units,Number,NGKT20,180
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Kebbi,Units,Number,NGKE21,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Kogi,Units,Number,NGKO22,54
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Kwara,Units,Number,NGKW23,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Lagos,Units,Number,NGLA24,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Nasarawa,Units,Number,NGNA25,8
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Niger,Units,Number,NGNI26,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Ogun,Units,Number,NGOG27,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Ondo,Units,Number,NGON28,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Osun,Units,Number,NGOS29,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Oyo,Units,Number,NGOY30,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Plateau,Units,Number,NGPL31,154
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Rivers,Units,Number,NGRI32,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Sokoto,Units,Number,NGSO33,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Taraba,Units,Number,NGTA34,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Yobe,Units,Number,NGYO35,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Zamfara,Units,Number,NGZA36,0
+2024,"Number of deaths, displaced persons and directly affected persons attributed to disasters",Deaths,Federal Capital Territory,Units,Number,NGFC37,0
