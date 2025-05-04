@@ -1,13 +1,11 @@
-﻿SDG_INDICATOR__GLOBAL: >-
-  <p>Indicator 15.b.1: (a) Official development assistance on conservation and
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 15.a.1: (a) Official development assistance on conservation and
   sustainable use of biodiversity; and (b) revenue generated and finance
   mobilized from biodiversity-relevant economic instruments</p>
 SDG_TARGET__GLOBAL: >-
-  <p>Target 15.b: Mobilize significant resources from all sources and at all
-  levels to finance sustainable forest management and provide adequate
-  incentives to developing countries to advance such management, including for
-  conservation and reforestation</p>
-META_LAST_UPDATE__GLOBAL: <p>2020-04-20</p>
+  <p>Target 15.a: Mobilize and significantly increase financial resources from
+  all sources to conserve and sustainably use biodiversity and ecosystems</p>
+META_LAST_UPDATE__GLOBAL: '2025-04-23'
 SDG_CUSTODIAN_AGENCIES__GLOBAL: <p>Organisation for Economic Cooperation and Development (OECD)</p>
 SDG_RELATED_INDICATORS__GLOBAL: >-
   <p>A related indicator is that on public expenditure on biodiversity. Public
@@ -53,6 +51,6 @@ QUALITY_ASSMNT: ''
 COVERAGE: ''
 COMPARABILITY: ''
 OTHER_DOC: ''
-national_data_updated_date: ''
-national_metadata_updated_date: ''
+national_data_updated_date: '2025-03-27'
+national_metadata_updated_date: '2025-04-22'
 un_designated_tier: ''
