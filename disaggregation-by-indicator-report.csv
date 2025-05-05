@@ -8,6 +8,7 @@ Indicator,Disaggregations,Number of disaggregations
 #1-5-1,"State, Category of disaster effect",2
 #10-3-1,"Gender, Sector, Wealth Index Quintile, Geopolitical zone, Ethnicity, State, Age group, Education level",8
 #10-5-1,"Period, Financial soundness indicator",2
+#11-2-1,Cities,1
 #11-5-1,"State, Category of disaster effect",2
 #11-7-2,"Sector, Wealth Index Quintile, Geopolitical zone, State, Age group, Education level",6
 #13-a-1,Unt multiplier,1
