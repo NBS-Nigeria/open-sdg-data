@@ -1,0 +1,76 @@
+﻿SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 11.3.1: Ratio of land consumption rate to population growth
+  rate</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 11.3: By 2030, enhance inclusive and sustainable urbanization and
+  capacity for participatory, integrated and sustainable human settlement
+  planning and management in all countries</p>
+META_LAST_UPDATE__GLOBAL: <p>2021-03-01</p>
+SDG_CUSTODIAN_AGENCIES__GLOBAL: <p>United Nations Human Settlements Programme (UN-Habitat)</p>
+SDG_RELATED_INDICATORS__GLOBAL: >-
+  <p>11.2.1: Proportion of population that has convenient access to public
+  transport, by sex, age and persons with disabilities</p>
+
+  <p>11.6.2: Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10)
+  in cities (population weighted)</p>
+
+  <p>11.7.1: Average share of the built-up area of cities that is open space for
+  public use for all, by sex, age and persons with disabilities</p>
+
+  <p>11.a.1: Proportion of population living in cities that implement urban and
+  regional development plans integrating population projections and resource
+  needs, by size of city</p>
+
+  <p>15.1.2: Proportion of important sites for terrestrial and freshwater
+  biodiversity that are covered by protected areas, by ecosystem type</p>
+
+  <p>11.7.2: Proportion of persons victim of physical or sexual harassment, by
+  sex, age, disability status and place of occurrence, in the previous 12
+  months</p>
+
+  <p>11.b.1: Proportion of local governments that adopt and implement local
+  disaster risk reduction strategies in line with the Sendai Framework for
+  Disaster Risk Reduction 2015-2030 [a]</p>
+SDG_INDICATOR_INFO: |
+  <b>Proxy: </b> Population density (people per sq. km of land area) - Nigeria
+SDG_GOAL: ''
+SDG_TARGET: ''
+SDG_INDICATOR: ''
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: ''
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: ''
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: ''
+COMPILING_ORG: ''
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: ''
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: ''
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: ''

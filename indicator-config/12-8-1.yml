@@ -2,7 +2,7 @@
 computation_units: ''
 copyright: ''
 data_footnote: ''
-data_non_statistical: false
+data_non_statistical: true
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
@@ -23,10 +23,18 @@ graph_type: line
 indicator_name: global_indicators.12-8-1-title
 indicator_number: '12.8.1'
 national_geographical_coverage: ''
-page_content: ''
+page_content: |-
+  <strong>Non-statistical indicator</strong>
+    <br><br>
+    We have identified the following to be relevant for reporting on this indicator:
+    <br><br>
+  <table><thead><tr><th colspan="2">Description</th><th>Yes/No</th></tr></thead><tbody><tr><td rowspan="4">1. Global Education for Citizen (Yes/N0)</td><td>National education policies</td><td>Yes</td></tr><tr><td>Curicula</td><td>Yes</td></tr><tr><td>Teacher education</td><td>Yes</td></tr><tr><td>Student assessment</td><td>Yes</td></tr><tr><td rowspan="2">2. Education for sustainable development are mainstreamed in (Yes/No)</td><td>National education policies</td><td>Yes</td></tr><tr><td>Curicula</td><td>Yes</td></tr><tr><td>Teacher education</td><td>Yes</td></tr><tr><td>Student assessment</td><td>Yes</td></tr></tbody></table>
 permalink: ''
 precision: []
-reporting_status: notstarted
+progress_status: target_achieved
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
+source_active_1: true
+source_organisation_1: Federal Ministry of Education

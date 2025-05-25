@@ -15,7 +15,7 @@ languages:
 # ---------------------
 # This identifies a directory to hold the "built" files. The default is '_site'.
 site_dir: _site
-
+ 
 # Schema file
 # -----------
 # This identifies a file containing the schema (possible fields) for metadata.
@@ -92,12 +92,22 @@ reporting_status_extra_fields: []
 # below and adjust if you would like to use the Open SDG mapping functionality.
 # Note that the GeoJSON files can either be remote (as in the example below) or
 # local, relative to the src_dir specified above.
-#map_layers:
-#  - geojson_file: https://geoportal1-ons.opendata.arcgis.com/datasets/4fcca2a47fed4bfaa1793015a18537ac_4.geojson
-#    name_property: rgn17nm
-#    id_property: rgn17cd
-#    output_subfolder: regions
-#    filename_prefix: indicator_
+map_layers:
+ - geojson_file: geojson/Nigeria.geojson
+   name_property: Name_en
+   id_property: Cid
+   output_subfolder: country
+   filename_prefix: indicator_
+ - geojson_file: geojson/Nigeria_Zones.geojson
+   name_property: Name_en
+   id_property: Zid
+   output_subfolder: regions
+   filename_prefix: indicator_
+ - geojson_file: geojson/Nigeria_States.geojson
+   name_property: Name_en
+   id_property: Tag
+   output_subfolder: states
+   filename_prefix: indicator_
 
 # Documentation settings
 # ----------------------

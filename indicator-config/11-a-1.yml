@@ -2,7 +2,7 @@
 computation_units: ''
 copyright: ''
 data_footnote: ''
-data_non_statistical: false
+data_non_statistical: true
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
@@ -23,10 +23,18 @@ graph_type: line
 indicator_name: global_indicators.11-a-1-title
 indicator_number: '11.a.1'
 national_geographical_coverage: ''
-page_content: ''
+page_content: |-
+  <strong>Non-statistical indicator</strong>
+    <br><br>
+    We have identified the following to be relevant for reporting on this indicator:
+    <br><br>
+    <table><thead><tr><th>Indicator Component</th><th>Yes/No</th><th>Regional and Development Frame work</th></tr></thead><tbody><tr><td>Respond to Population Dynamics</td><td>Yes</td><td>National Urban Development Policy: Revised to address rapid urbanization, Migration, and Population Growth, Promotes sustainable urban growth and equitable service delivery.</td></tr><tr><td>Ensure Balanced Territorial Development</td><td>Yes</td><td>i). National Integrated Infrastructure Master Plan:Focuses on reducing regional inequalities by improving infrastructure across states. II).Economic Recovery and Growth Plan (2017-2020): Aimed to diversify the economy and priotize investments in underserved regions,</td></tr><tr><td>Increase Local Fiscal Space</td><td>yes</td><td>i).State Fiscal Transparency Accountability and Sustainability Program (SFTAS): Supported by the World Bank, helps states improve revenue collection and financial management. ii). Property Taxation and Internallly Generated Revenue: Encourage LGAs to expand revenue sources such as property taxes</td></tr></tbody></table>
 permalink: ''
 precision: []
-reporting_status: notstarted
+progress_status: target_achieved
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
+source_active_1: true
+source_organisation_1: Federal Ministry of Housing and Urban Development

@@ -1,0 +1,71 @@
+﻿SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 16.4.1: Total value of inward and outward illicit financial flows
+  (in current United States dollars)</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 16.4: By 2030, significantly reduce illicit financial and arms
+  flows, strengthen the recovery and return of stolen assets and combat all
+  forms of organized crime</p>
+META_LAST_UPDATE__GLOBAL: '2024-07-29'
+SDG_CUSTODIAN_AGENCIES__GLOBAL: >-
+  <p>United Nations Office on Drugs and Crime (UNODC) and United Nations
+  Conference on Trade and Development (UNCTAD)</p>
+SDG_RELATED_INDICATORS__GLOBAL: >-
+  <p>Indicator 16.4.2 refers to the illicit trade in firearms</p>
+
+  <p>Indicator 16.2.2 to trafficking in persons</p>
+
+  <p>Indicators 16.5.1 and 16.5.2 to corruption and bribery in all forms</p>
+
+  <p>Indicator 10.7.2 is concerned with migration policies</p>
+
+  <p>Indicators 15.7.1 and 15.c.1 Proportion of traded wildlife that was poached
+  or illicitly trafficked</p>
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: ''
+SDG_TARGET: ''
+SDG_INDICATOR: ''
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >
+  Illicit financial flows (IFFs) are commonly defined as the transferred monies
+  that is earned, transferred or utilized through illicit means, into or out of
+  a country. They include legally earned value, money and monetized instruments
+  that are transferred illicitly or value, money and monetized instruments that
+  are acquired through illegal activities, such as the proceeds of crimes,
+  including corruption and tax evasion. They can also capture tax avoidance and
+  trade misinvoicing
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: ''
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: ''
+COMPILING_ORG: ''
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: ''
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: ''
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: ''

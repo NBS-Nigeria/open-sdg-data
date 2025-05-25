@@ -1,0 +1,81 @@
+﻿SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 5.4.1: Proportion of time spent on unpaid domestic and care work,
+  by sex, age and location</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 5.4: Recognize and value unpaid care and domestic work through the
+  provision of public services, infrastructure and social protection policies
+  and the promotion of shared responsibility within the household and the family
+  as nationally appropriate</p>
+META_LAST_UPDATE__GLOBAL: '2024-07-29'
+SDG_CUSTODIAN_AGENCIES__GLOBAL: <p>UN Statistics Division (UNSD) and UN WOMEN</p>
+SDG_RELATED_INDICATORS__GLOBAL: >-
+  <p>Time-use information collected and analyzed around the world has shown that
+  there is a very close link between economic poverty (SDG 1) and time poverty;
+  most of health care is provided by households (SDG 3) and these activities are
+  socially allocated to women in general; the provision of early childhood
+  education services (SDG 4) not only prepares children for primary education
+  but also frees up time for their caregivers; the sexual division of labour is
+  a structural challenge of gender inequalities (SDG 5, 8 and 10); and the lack
+  of services such as drinkable water, electricity or transport infrastructure
+  increases unpaid work time and disproportionately affects women (SDG 6, 7,
+  9,11). Please see the section &#x201C;Time-use data crucial for monitoring the
+  2030 Agenda for Sustainable Development: going beyond SDG 5&#x201D; of the
+  <em>Policy relevance: Making the case for time-use data collections in support
+  of SDGs monitoring paper submitted to the SC</em> of 2020<sup><a
+  href="#footnote-2" id="footnote-ref-2">[1]</a></sup>.</p><div
+  class="footnotes"><div><sup class="footnote-number" id="footnote-2">1</sup><p>
+  <a
+  href="https://unstats.un.org/unsd/statcom/51st-session/documents/BG-Item3m-PolicyRelevance-E.pdf">https://unstats.un.org/unsd/statcom/51st-session/documents/BG-Item3m-PolicyRelevance-E.pdf</a>
+  <a href="#footnote-ref-2">&#x2191;</a></p></div></div>
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: ''
+SDG_TARGET: ''
+SDG_INDICATOR: ''
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  Unpaid domestic and care work activities include the unpaid production of
+  goods for own final consumption, these include: (a) Unpaid work that involves
+  the production of goods for self-consumption (e.g. collecting water or
+  firewood);   (b) Unpaid work that involves the provision of services for
+  self-consumption (e.g. cooking or cleaning as well as person-to-person care
+  for other people); and    (c) 'Voluntary work' which consists of service or
+  activity undertaken without pay for the benefit of the community, the
+  environment, and persons other than close relatives or those within the
+  household.
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: |
+  Surveys;MIXED MODE PHONE SURVEY/ GHS    
+SOURCE_TYPE: ''
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: National Bureau of Statistics (NBS)
+COMPILING_ORG: ''
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: ''
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: ''
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: ''

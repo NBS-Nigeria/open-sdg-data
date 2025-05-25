@@ -2,7 +2,7 @@
 computation_units: ''
 copyright: ''
 data_footnote: ''
-data_non_statistical: false
+data_non_statistical: true
 data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
@@ -23,10 +23,18 @@ graph_type: line
 indicator_name: global_indicators.14-b-1-title
 indicator_number: '14.b.1'
 national_geographical_coverage: ''
-page_content: ''
+page_content: |-
+  <strong>Non-statistical indicator</strong>
+    <br><br>
+    We have identified the following to be relevant for reporting on this indicator:
+    <br><br>
+    <table><thead><tr><th>Indicator</th><th>Progress Report</th></tr></thead><tbody><tr><td>Degree of application of a legal/regulatory/ policy/institutional framework which recognizes and protects access rights for small-scale fisheries</td><td>National Policy on Fisheries and Aquaculture, National Fisheries and Aquaculture Policy (2024–2028) : These policies, aim at enhancing sustainable fisheries development in Nigeria. It focuses on capacity building, resource management, and poverty alleviation, indirectly benefiting small-scale fishers by promoting sustainable resource use and equitable access to fisheries</td></tr></tbody></table>
 permalink: ''
 precision: []
-reporting_status: notstarted
+progress_status: target_achieved
+reporting_status: complete
 sort: ''
 standalone: false
 tags: []
+source_active_1: true
+source_organisation_1: Federal Ministry of Agriculture and Food Security

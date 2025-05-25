@@ -1,0 +1,80 @@
+﻿SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 6.4.2: Level of water stress: freshwater withdrawal as a
+  proportion of available freshwater resources</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 6.4: By 2030, substantially increase water-use efficiency across all
+  sectors and ensure sustainable withdrawals and supply of freshwater to address
+  water scarcity and substantially reduce the number of people suffering from
+  water scarcity</p>
+META_LAST_UPDATE__GLOBAL: '2024-07-29'
+SDG_CUSTODIAN_AGENCIES__GLOBAL: <p>Food and Agriculture Organization of the United Nations (FAO)</p>
+SDG_RELATED_INDICATORS__GLOBAL: >-
+  <p>6.4.1: Change in water-use efficiency over time</p>
+
+  <p>6.1.1: Proportion of population using safely managed drinking water
+  services</p>
+
+  <p>6.3.1: Proportion of wastewater safely treated</p>
+
+  <p>6.6.1: Change in the extent of water-related ecosystems over time</p>
+
+  <p>6.5.1: Degree of integrated water resources management implementation
+  (0-100)</p>
+
+  <p>2.4.1: Proportion of agricultural area under productive and sustainable
+  agriculture</p>
+
+  <p>15.3.1: Proportion of land that is degraded over total land area</p>
+
+  <p>1.5.1: Number of deaths, missing persons and persons affected by disaster
+  per 100,000 people [a]</p>
+
+  <p>11.5.1: Number of deaths, missing persons and persons affected by disaster
+  per 100,000 people [a]</p>
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: ''
+SDG_TARGET: ''
+SDG_INDICATOR: ''
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  The ratio between total freshwater withdrawn by all major sectors and total
+  renewable freshwater resources, after having taken into account environmental
+  water requirements. Main sectors, as defined by ISIC standards, can include
+  for example agriculture,; forestry and fishing; manufacturing; electricity
+  industry; and municipalities.
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: ''
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: ''
+COMPILING_ORG: ''
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: ''
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: ''
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: ''

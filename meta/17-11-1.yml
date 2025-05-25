@@ -1,0 +1,64 @@
+﻿SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 17.11.1: Developing countries&#x2019; and least developed
+  countries&#x2019; share of global exports</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 17.11: Significantly increase the exports of developing countries,
+  in particular with a view to doubling the least developed countries&#x2019;
+  share of global exports by 2020</p>
+META_LAST_UPDATE__GLOBAL: <p>2016-07-19</p>
+SDG_CUSTODIAN_AGENCIES__GLOBAL: |-
+  <p>International Trade Centre (ITC)</p>
+  <p>United Nations Conference on Trade and Development (UNCTAD)</p>
+  <p>The World Trade Organization (WTO)</p>
+SDG_RELATED_INDICATORS__GLOBAL: >-
+  <p>Improvements in the transfer of environmental goods and services (target
+  17.7). If the indicator is disaggregated by level of processing of the traded
+  products (raw materials, semi-processed and processed) or by the level of
+  diversification of the products exported, it could be also used to measure
+  progress in productivity and diversification (target 8.2).</p>
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: ''
+SDG_TARGET: ''
+SDG_INDICATOR: ''
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >
+  This indicator provides calculations of developing and LDCs exports of goods
+  and services toward the rest of the World. The unit of measurement could be in
+  % (developing countries' and LDCs share of global exports) or alternatively in
+  value (i.e. USD '000).
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: ''
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: ''
+COMPILING_ORG: ''
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: ''
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: ''
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: ''

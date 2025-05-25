@@ -1,0 +1,66 @@
+﻿SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 7.2.1: Renewable energy share in the total final energy
+  consumption</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 7.2: By 2030, increase substantially the share of renewable energy
+  in the global energy mix</p>
+META_LAST_UPDATE__GLOBAL: '2024-03-28'
+SDG_CUSTODIAN_AGENCIES__GLOBAL: |-
+  <p>International Energy Agency (IEA) </p>
+  <p>United Nations Statistics Division (UNSD) </p>
+  <p>International Renewable Energy Agency (IRENA)</p>
+SDG_RELATED_INDICATORS__GLOBAL: >-
+  <p>Indicator 7.3.1: Energy intensity measured in terms of primary energy and
+  GDP</p>
+
+  <p>Indicator 9.4.1: CO<sub>2</sub> emission per unit of value added</p>
+
+  <p>Indicator 13.2.2: Total greenhouse gas emissions per year</p>
+SDG_INDICATOR_INFO: '<b>Proxy: </b> Renewable energy share in the total final energy production (%)'
+SDG_GOAL: ''
+SDG_TARGET: ''
+SDG_INDICATOR: ''
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >-
+  The renewable energy share in total final consumption is the percentage of
+  final consumption of energy that is derived from renewable resources. It is
+  calculated by dividing consumption of energy from all renewable sources by
+  total final energy consumption. renewable energy consumption includes
+  consumption of energy derived from: hydro, solid biofuels, biogas, geothermal,
+  marine and waste. Total final energy consumption minus non-energy use.
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: ''
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: National Electricity Regulatory Commission (NERC)
+COMPILING_ORG: ''
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: ''
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: ''
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: ''

@@ -1,0 +1,67 @@
+﻿SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 16.2.2: Number of victims of human trafficking per 100,000
+  population, by sex, age and form of exploitation</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 16.2: End abuse, exploitation, trafficking and all forms of violence
+  against and torture of children</p>
+META_LAST_UPDATE__GLOBAL: '2024-07-29'
+SDG_CUSTODIAN_AGENCIES__GLOBAL: <p>United Nations Office on Drugs and Crime (UNODC)</p>
+SDG_RELATED_INDICATORS__GLOBAL: >-
+  <p><strong>Indicator 5.2.1:</strong> Proportion of ever-partnered women and
+  girls aged 15 years and older subjected to physical, sexual or psychological
+  violence by a current or former intimate partner in the previous 12 months, by
+  form of violence and by age </p>
+
+  <p><strong>Indicator 5.2.2:</strong> Proportion of women and girls aged 15
+  years and older subjected to sexual violence by persons other than an intimate
+  partner in the previous 12 months, by age and place of occurrence</p>
+SDG_INDICATOR_INFO: ''
+SDG_GOAL: ''
+SDG_TARGET: ''
+SDG_INDICATOR: ''
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: ''
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: >
+  Trafficking in persons is defined as the recruitment, transportation,
+  transfer, harbouring or receipt of persons, by means of the threat or use of
+  force or other forms of coercion, of abduction, of fraud, of deception, of the
+  abuse of power or of a position of vulnerability or of the giving or receiving
+  of payments or benefits to achieve the consent of a person having control over
+  another person, for the purpose of exploitation
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: |
+  Naptip Annual Report
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: |
+  National Agency for the Prohibition of Trafficking in Persons (NAPTIP)
+COMPILING_ORG: ''
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: ''
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: ''
+OTHER_DOC: ''
+national_data_updated_date: ''
+national_metadata_updated_date: ''
+un_designated_tier: ''
