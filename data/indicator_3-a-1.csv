@@ -152,8 +152,6 @@ Year,Series,Sector,Gender,Wealth Index Quintile,Geopolitical Zone,Education Leve
 2018,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,,Male,,,,40-44,Any type of tobacco,Percentage (%),NG,8
 2018,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,,Male,,,,45-49,Any type of tobacco,Percentage (%),NG,6.3
 2018,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,,Male,,,,50-59,Any type of tobacco,Percentage (%),NG,4.8
-,,,,,,,,,,,
-,,,,,,,,,,,
 2024,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,,Female,,,,,Cigarettes,Percentage (%),NG,0.4
 2024,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Urban,Female,,,,,Cigarettes,Percentage (%),NG,0.5
 2024,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,Rural,Female,,,,,Cigarettes,Percentage (%),NG,0.5
@@ -307,3 +305,4 @@ Year,Series,Sector,Gender,Wealth Index Quintile,Geopolitical Zone,Education Leve
 2024,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,,Male,,,,40-44,Any type of tobacco,Percentage (%),NG,6.9
 2024,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,,Male,,,,45-49,Any type of tobacco,Percentage (%),NG,6.4
 2024,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,,Male,,,,50-59,Any type of tobacco,Percentage (%),NG,6
+
