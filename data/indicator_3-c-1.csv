@@ -176,7 +176,7 @@ Year,Series,Category,Gender,State,GeoCode,Value
 2021,Health worker density and distribution,Dentists,Female,Kano,NGKN19,33
 2021,Health worker density and distribution,Dentists,Female,Katsina,NGKT20,6
 2021,Health worker density and distribution,Dentists,Female,Kebbi,NGKE21,3
-2021,Health worker density and distribution,Dentists,Female,Kogi,NGKO22,l
+2021,Health worker density and distribution,Dentists,Female,Kogi,NGKO22,1
 2021,Health worker density and distribution,Dentists,Female,Kwara,NGKW23,3
 2021,Health worker density and distribution,Dentists,Female,Lagos,NGLA24,313
 2021,Health worker density and distribution,Dentists,Female,Nasarawa,NGNA25,5
@@ -935,3 +935,4 @@ Year,Series,Category,Gender,State,GeoCode,Value
 2024,Health worker density and distribution,Dentists,,Federal Capital Territory,NGFC37,248
 2024,Health worker density and distribution,Dentists,,Not applicable,NG,184
 2024,Health worker density and distribution,Dentists,,,NG,3559
+
