@@ -165,7 +165,7 @@ Year,Series,Measure,State,GeoCode,Value
 2021,Death rate due to road traffic injuries,Number of Fatality,Taraba,NGTA34,36
 2021,Death rate due to road traffic injuries,Number of Fatality,Yobe,NGYO35,118
 2021,Death rate due to road traffic injuries,Number of Fatality,Zamfara,NGZA36,115
-2021,Death rate due to road traffic injuries,Number of Fatality,,NG,6205
+2021,Death rate due to road traffic injuries,Number of Fatality,,NG,5985
 2022,Death rate due to road traffic injuries,Number of Fatality,Abia,NGAB01,52
 2022,Death rate due to road traffic injuries,Number of Fatality,Adamawa,NGAD02,106
 2022,Death rate due to road traffic injuries,Number of Fatality,Akwa Ibom,NGAK03,43
@@ -356,3 +356,6 @@ Year,Series,Measure,State,GeoCode,Value
 2023,Death rate due to road traffic injuries,Number Injured,Yobe,NGYO35,953
 2023,Death rate due to road traffic injuries,Number Injured,Zamfara,NGZA36,333
 2023,Death rate due to road traffic injuries,Number Injured,,NG,31873
+2024,Death rate due to road traffic injuries,Number of Crash,,NG,9558
+2024,Death rate due to road traffic injuries,Number of Fatality,,NG,5421
+2024,Death rate due to road traffic injuries,Number Injured,,NG,31154
