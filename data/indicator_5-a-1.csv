@@ -1,123 +1,371 @@
-Year,Series,Sector,Age group,Education level,Geopolitical zone,Wealth Index Quintile,State,Units,GeoCode,Value
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,,Percentage (%),NG,4.2
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",Urban,,,,,,Percentage (%),NG,2.8
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",Rural,,,,,,Percentage (%),NG,5.4
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,15-19,,,,,Percentage (%),NG,1
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,20-24,,,,,Percentage (%),NG,2.3
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,25-29,,,,,Percentage (%),NG,3.4
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,30-34,,,,,Percentage (%),NG,4
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,35-39,,,,,Percentage (%),NG,5.6
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,40-44,,,,,Percentage (%),NG,8.3
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,45-49,,,,,Percentage (%),NG,10.5
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,North Central,,,Percentage (%),NGNCZ06,3.8
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,North East,,,Percentage (%),NGNEZ05,5.9
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,North West,,,Percentage (%),NGNWZ04,3.9
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,South East,,,Percentage (%),NGSEZ03,5.4
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,South South,,,Percentage (%),NGSSZ02,5.3
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,South West,,,Percentage (%),NGSWZ01,1.9
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,None,,,,Percentage (%),NG,5.1
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,Primary,,,,Percentage (%),NG,6.3
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,Secondary,,,,Percentage (%),NG,2.8
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,Higher,,,,Percentage (%),NG,3.5
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,Lowest,,Percentage (%),NG,6.8
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,Second,,Percentage (%),NG,4.8
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,Middle,,Percentage (%),NG,4.8
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,Fourth,,Percentage (%),NG,3
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,Highest,,Percentage (%),NG,2.3
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Abia,Percentage (%),NGAB01,4.7
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Adamawa,Percentage (%),NGAD02,4.5
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Akwa Ibom,Percentage (%),NGAK03,6.5
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Anambra,Percentage (%),NGAN04,3.8
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Bauchi,Percentage (%),NGBA05,5
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Bayelsa,Percentage (%),NGBY06,16.9
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Benue,Percentage (%),NGBE07,5.5
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Borno,Percentage (%),NGBO08,1.4
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Cross River,Percentage (%),NGXR09,13
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Delta,Percentage (%),NGDE10,1.8
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Ebonyi,Percentage (%),NGEB11,7.3
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Edo,Percentage (%),NGED12,4.6
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Ekiti,Percentage (%),NGEK13,4.6
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Enugu,Percentage (%),NGEN14,10.1
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Gombe,Percentage (%),NGGO15,2.3
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Imo,Percentage (%),NGIM16,2
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Jigawa,Percentage (%),NGJI17,5.7
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Kaduna,Percentage (%),NGKD18,4.7
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Kano,Percentage (%),NGKN19,3.7
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Katsina,Percentage (%),NGKT20,5.5
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Kebbi,Percentage (%),NGKE21,1.5
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Kogi,Percentage (%),NGKO22,4.4
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Kwara,Percentage (%),NGKW23,1.6
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Lagos,Percentage (%),NGLA24,0.5
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Nasarawa,Percentage (%),NGNA25,2.1
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Niger,Percentage (%),NGNI26,5.3
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Ogun,Percentage (%),NGOG27,1.1
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Ondo,Percentage (%),NGON28,5.8
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Osun,Percentage (%),NGOS29,3.8
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Oyo,Percentage (%),NGOY30,1.1
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Plateau,Percentage (%),NGPL31,2.2
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Rivers,Percentage (%),NGRI32,1.8
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Sokoto,Percentage (%),NGSO33,1.3
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Taraba,Percentage (%),NGTA34,3.1
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Yobe,Percentage (%),NGYO35,16.7
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Zamfara,Percentage (%),NGZA36,1.9
-2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Federal Capital Territory,Percentage (%),NGFC37,1.3
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,,Percentage (%),NG,18.9
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",Urban,,,,,,Percentage (%),NG,18.2
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",Rural,,,,,,Percentage (%),NG,19.6
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,15-19,,,,,Percentage (%),NG,10.1
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,20-24,,,,,Percentage (%),NG,14.8
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,25-29,,,,,Percentage (%),NG,13.3
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,30-34,,,,,Percentage (%),NG,16.4
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,35-39,,,,,Percentage (%),NG,21.6
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,40-44,,,,,Percentage (%),NG,26.2
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,45-49,,,,,Percentage (%),NG,19.6
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,North Central,,,Percentage (%),NGNCZ06,11.2
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,North East,,,Percentage (%),NGNEZ05,57
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,North West,,,Percentage (%),NGNWZ04,43.8
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,South East,,,Percentage (%),NGSEZ03,2
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,South South,,,Percentage (%),NGSSZ02,10.6
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,South West,,,Percentage (%),NGSWZ01,31.4
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,None,,,,Percentage (%),NG,24.2
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,Primary,,,,Percentage (%),NG,14.9
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,Secondary,,,,Percentage (%),NG,14
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,Higher,,,,Percentage (%),NG,31.5
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,Lowest,,Percentage (%),NG,22.3
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,Second,,Percentage (%),NG,15.3
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,Middle,,Percentage (%),NG,14.6
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,Fourth,,Percentage (%),NG,17.1
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,Highest,,Percentage (%),NG,26.1
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Abia,Percentage (%),NGAB01,4.8
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Adamawa,Percentage (%),NGAD02,96.4
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Akwa Ibom,Percentage (%),NGAK03,10.9
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Anambra,Percentage (%),NGAN04,0.8
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Bauchi,Percentage (%),NGBA05,24.5
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Bayelsa,Percentage (%),NGBY06,16.7
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Benue,Percentage (%),NGBE07,5.8
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Borno,Percentage (%),NGBO08,31.8
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Cross River,Percentage (%),NGXR09,1.3
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Delta,Percentage (%),NGDE10,3.9
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Ebonyi,Percentage (%),NGEB11,1.3
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Edo,Percentage (%),NGED12,35.1
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Ekiti,Percentage (%),NGEK13,14.4
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Enugu,Percentage (%),NGEN14,2.2
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Gombe,Percentage (%),NGGO15,52.4
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Imo,Percentage (%),NGIM16,10.9
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Kaduna,Percentage (%),NGKD18,18.9
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Kano,Percentage (%),NGKN19,58.2
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Katsina,Percentage (%),NGKT20,72
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Kebbi,Percentage (%),NGKE21,27.4
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Kogi,Percentage (%),NGKO22,14
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Kwara,Percentage (%),NGKW23,13.6
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Lagos,Percentage (%),NGLA24,34.4
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Nasarawa,Percentage (%),NGNA25,32.1
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Ogun,Percentage (%),NGOG27,32.4
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Ondo,Percentage (%),NGON28,23.2
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Osun,Percentage (%),NGOS29,32.4
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Oyo,Percentage (%),NGOY30,40.5
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Plateau,Percentage (%),NGPL31,5.8
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Rivers,Percentage (%),NGRI32,8.5
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Sokoto,Percentage (%),NGSO33,45.8
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Taraba,Percentage (%),NGTA34,25.8
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Yobe,Percentage (%),NGYO35,35.5
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Zamfara,Percentage (%),NGZA36,66
-2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Federal Capital Territory,Percentage (%),NGFC37,29.5
+Year,Series,Sector,Age group,Education level,Geopolitical zone,Wealth Index Quintile,State,Gender,Units,GeoCode,Value
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,,Female,Percentage (%),NG,2.6
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",Urban,,,,,,Female,Percentage (%),NG,2.1
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",Rural,,,,,,Female,Percentage (%),NG,3.1
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,15-19,,,,,Female,Percentage (%),NG,0.5
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,20-24,,,,,Female,Percentage (%),NG,1.5
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,25-29,,,,,Female,Percentage (%),NG,1.6
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,30-34,,,,,Female,Percentage (%),NG,2.8
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,35-39,,,,,Female,Percentage (%),NG,3.8
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,40-44,,,,,Female,Percentage (%),NG,4.9
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,45-49,,,,,Female,Percentage (%),NG,7.5
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,North Central,,,Female,Percentage (%),NGNCZ06,2.8
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,North East,,,Female,Percentage (%),NGNEZ05,2
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,North West,,,Female,Percentage (%),NGNWZ04,2.2
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,South East,,,Female,Percentage (%),NGSEZ03,1.5
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,South South,,,Female,Percentage (%),NGSSZ02,4.9
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,South West,,,Female,Percentage (%),NGSWZ01,2.8
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,None,,,,Female,Percentage (%),NG,5.1
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,Primary,,,,Female,Percentage (%),NG,6.3
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,Secondary,,,,Female,Percentage (%),NG,2.8
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,Higher,,,,Female,Percentage (%),NG,3.5
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,Lowest,,Female,Percentage (%),NG,2.3
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,Second,,Female,Percentage (%),NG,3.2
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,Middle,,Female,Percentage (%),NG,2.9
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,Fourth,,Female,Percentage (%),NG,2.4
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,Highest,,Female,Percentage (%),NG,2.3
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Abia,Female,Percentage (%),NGAB01,2
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Adamawa,Female,Percentage (%),NGAD02,4.4
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Akwa Ibom,Female,Percentage (%),NGAK03,8.6
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Anambra,Female,Percentage (%),NGAN04,1
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Bauchi,Female,Percentage (%),NGBA05,0.7
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Bayelsa,Female,Percentage (%),NGBY06,9.3
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Benue,Female,Percentage (%),NGBE07,4.7
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Borno,Female,Percentage (%),NGBO08,1.4
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Cross River,Female,Percentage (%),NGXR09,11.2
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Delta,Female,Percentage (%),NGDE10,3.6
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Ebonyi,Female,Percentage (%),NGEB11,1.9
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Edo,Female,Percentage (%),NGED12,1.7
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Ekiti,Female,Percentage (%),NGEK13,4.4
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Enugu,Female,Percentage (%),NGEN14,1.6
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Gombe,Female,Percentage (%),NGGO15,3.5
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Imo,Female,Percentage (%),NGIM16,1
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Jigawa,Female,Percentage (%),NGJI17,0.7
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Kaduna,Female,Percentage (%),NGKD18,3.3
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Kano,Female,Percentage (%),NGKN19,2.3
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Katsina,Female,Percentage (%),NGKT20,2.4
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Kebbi,Female,Percentage (%),NGKE21,0.9
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Kogi,Female,Percentage (%),NGKO22,0.5
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Kwara,Female,Percentage (%),NGKW23,0.2
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Lagos,Female,Percentage (%),NGLA24,1.2
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Nasarawa,Female,Percentage (%),NGNA25,6.3
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Niger,Female,Percentage (%),NGNI26,1.7
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Ogun,Female,Percentage (%),NGOG27,2.7
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Ondo,Female,Percentage (%),NGON28,13.1
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Osun,Female,Percentage (%),NGOS29,1.4
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Oyo,Female,Percentage (%),NGOY30,0.4
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Plateau,Female,Percentage (%),NGPL31,4
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Rivers,Female,Percentage (%),NGRI32,2.3
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Sokoto,Female,Percentage (%),NGSO33,0.4
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Taraba,Female,Percentage (%),NGTA34,1.3
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Yobe,Female,Percentage (%),NGYO35,2.7
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Zamfara,Female,Percentage (%),NGZA36,4.1
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Federal Capital Territory,Female,Percentage (%),NGFC37,1.3
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,,,Percentage (%),NG,20.8
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",Urban,,,,,,,Percentage (%),NG,18.1
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",Rural,,,,,,,Percentage (%),NG,22.8
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,15-19,,,,,,Percentage (%),NG,12.5
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,20-24,,,,,,Percentage (%),NG,20.5
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,25-29,,,,,,Percentage (%),NG,18.5
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,30-34,,,,,,Percentage (%),NG,19.9
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,35-39,,,,,,Percentage (%),NG,20.5
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,40-44,,,,,,Percentage (%),NG,23.8
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,45-49,,,,,,Percentage (%),NG,23.4
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,North Central,,,,Percentage (%),NGNCZ06,16.4
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,North East,,,,Percentage (%),NGNEZ05,37.6
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,North West,,,,Percentage (%),NGNWZ04,47.9
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,South East,,,,Percentage (%),NGSEZ03,2.2
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,South South,,,,Percentage (%),NGSSZ02,14.3
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,South West,,,,Percentage (%),NGSWZ01,33.5
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,None,,,,,Percentage (%),NG,26.8
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,Primary,,,,,Percentage (%),NG,15.2
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,Secondary,,,,,Percentage (%),NG,15.9
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,Higher,,,,,Percentage (%),NG,34
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,Lowest,,,Percentage (%),NG,21.8
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,Second,,,Percentage (%),NG,21.5
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,Middle,,,Percentage (%),NG,17.4
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,Fourth,,,Percentage (%),NG,16.8
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,Highest,,,Percentage (%),NG,29.1
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Abia,,Percentage (%),NGAB01,12.4
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Adamawa,,Percentage (%),NGAD02,89.9
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Akwa Ibom,,Percentage (%),NGAK03,13.8
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Anambra,,Percentage (%),NGAN04,0.9
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Bauchi,,Percentage (%),NGBA05,30.7
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Bayelsa,,Percentage (%),NGBY06,14.5
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Benue,,Percentage (%),NGBE07,20.8
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Borno,,Percentage (%),NGBO08,-24.6
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Cross River,,Percentage (%),NGXR09,2.3
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Delta,,Percentage (%),NGDE10,11.4
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Ebonyi,,Percentage (%),NGEB11,1.8
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Edo,,Percentage (%),NGED12,48.8
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Ekiti,,Percentage (%),NGEK13,11.6
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Enugu,,Percentage (%),NGEN14,0.7
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Gombe,,Percentage (%),NGGO15,49.4
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Imo,,Percentage (%),NGIM16,10.7
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Jigawa,,Percentage (%),NGJI17,33.9
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Kaduna,,Percentage (%),NGKD18,32.1
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Kano,,Percentage (%),NGKN19,67.5
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Katsina,,Percentage (%),NGKT20,43.5
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Kebbi,,Percentage (%),NGKE21,36.7
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Kogi,,Percentage (%),NGKO22,15.7
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Kwara,,Percentage (%),NGKW23,11.7
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Lagos,,Percentage (%),NGLA24,-46.3
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Nasarawa,,Percentage (%),NGNA25,35.3
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Niger,,Percentage (%),NGNI26,12.8
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Ogun,,Percentage (%),NGOG27,46.8
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Ondo,,Percentage (%),NGON28,34.4
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Osun,,Percentage (%),NGOS29,53.9
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Oyo,,Percentage (%),NGOY30,-22.6
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Plateau,,Percentage (%),NGPL31,10.2
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Rivers,,Percentage (%),NGRI32,9.5
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Sokoto,,Percentage (%),NGSO33,63.7
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Taraba,,Percentage (%),NGTA34,38.4
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Yobe,,Percentage (%),NGYO35,9.7
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Zamfara,,Percentage (%),NGZA36,66
+2018,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Federal Capital Territory,,Percentage (%),NGFC37,40.3
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,,,Percentage (%),NG,2.6
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",Urban,,,,,,,Percentage (%),NG,2.1
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",Rural,,,,,,,Percentage (%),NG,3.1
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,15-19,,,,,,Percentage (%),NG,0.5
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,20-24,,,,,,Percentage (%),NG,1.5
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,25-29,,,,,,Percentage (%),NG,1.6
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,30-34,,,,,,Percentage (%),NG,2.8
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,35-39,,,,,,Percentage (%),NG,3.8
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,40-44,,,,,,Percentage (%),NG,4.9
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,45-49,,,,,,Percentage (%),NG,7.5
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,North Central,,,,Percentage (%),NGNCZ06,2.8
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,North East,,,,Percentage (%),NGNEZ05,2
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,North West,,,,Percentage (%),NGNWZ04,2.2
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,South East,,,,Percentage (%),NGSEZ03,1.5
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,South South,,,,Percentage (%),NGSSZ02,4.9
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,South West,,,,Percentage (%),NGSWZ01,2.8
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,None,,,,,Percentage (%),NG,5.1
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,Primary,,,,,Percentage (%),NG,6.3
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,Secondary,,,,,Percentage (%),NG,2.8
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,Higher,,,,,Percentage (%),NG,3.5
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,Lowest,,,Percentage (%),NG,2.3
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,Second,,,Percentage (%),NG,3.2
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,Middle,,,Percentage (%),NG,2.9
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,Fourth,,,Percentage (%),NG,2.4
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,Highest,,,Percentage (%),NG,2.3
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Abia,,Percentage (%),NGAB01,2
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Adamawa,,Percentage (%),NGAD02,4.4
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Akwa Ibom,,Percentage (%),NGAK03,8.6
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Anambra,,Percentage (%),NGAN04,1
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Bauchi,,Percentage (%),NGBA05,0.7
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Bayelsa,,Percentage (%),NGBY06,9.3
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Benue,,Percentage (%),NGBE07,4.7
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Borno,,Percentage (%),NGBO08,1.4
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Cross River,,Percentage (%),NGXR09,11.2
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Delta,,Percentage (%),NGDE10,3.6
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Ebonyi,,Percentage (%),NGEB11,1.9
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Edo,,Percentage (%),NGED12,1.7
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Ekiti,,Percentage (%),NGEK13,4.4
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Enugu,,Percentage (%),NGEN14,1.6
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Gombe,,Percentage (%),NGGO15,3.5
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Imo,,Percentage (%),NGIM16,1
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Jigawa,,Percentage (%),NGJI17,0.7
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Kaduna,,Percentage (%),NGKD18,3.3
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Kano,,Percentage (%),NGKN19,2.3
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Katsina,,Percentage (%),NGKT20,2.4
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Kebbi,,Percentage (%),NGKE21,0.9
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Kogi,,Percentage (%),NGKO22,0.5
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Kwara,,Percentage (%),NGKW23,0.2
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Lagos,,Percentage (%),NGLA24,1.2
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Nasarawa,,Percentage (%),NGNA25,6.3
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Niger,,Percentage (%),NGNI26,1.7
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Ogun,,Percentage (%),NGOG27,2.7
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Ondo,,Percentage (%),NGON28,13.1
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Osun,,Percentage (%),NGOS29,1.4
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Oyo,,Percentage (%),NGOY30,0.4
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Plateau,,Percentage (%),NGPL31,4
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Rivers,,Percentage (%),NGRI32,2.3
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Sokoto,,Percentage (%),NGSO33,0.4
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Taraba,,Percentage (%),NGTA34,1.3
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Yobe,,Percentage (%),NGYO35,2.7
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Zamfara,,Percentage (%),NGZA36,4.1
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Federal Capital Territory,,Percentage (%),NGFC37,1.3
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,,,Percentage (%),NG,19.4
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",Urban,,,,,,,Percentage (%),NG,31.6
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",Rural,,,,,,,Percentage (%),NG,12.7
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,15-19,,,,,,Percentage (%),NG,10.2
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,20-24,,,,,,Percentage (%),NG,13.5
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,25-29,,,,,,Percentage (%),NG,14.8
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,30-34,,,,,,Percentage (%),NG,19.1
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,35-39,,,,,,Percentage (%),NG,21.3
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,40-44,,,,,,Percentage (%),NG,21.9
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,45-49,,,,,,Percentage (%),NG,25.3
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,North Central,,,,Percentage (%),NGNCZ06,9.1
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,North East,,,,Percentage (%),NGNEZ05,27.1
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,North West,,,,Percentage (%),NGNWZ04,22.3
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,South East,,,,Percentage (%),NGSEZ03,16.6
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,South South,,,,Percentage (%),NGSSZ02,23.2
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,South West,,,,Percentage (%),NGSWZ01,31.6
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,None,,,,,Percentage (%),NG,12.1
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,Primary,,,,,Percentage (%),NG,10.1
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,Secondary,,,,,Percentage (%),NG,19.4
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,Higher,,,,,Percentage (%),NG,45.8
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,Lowest,,,Percentage (%),NG,8.7
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,Second,,,Percentage (%),NG,8.7
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,Middle,,,Percentage (%),NG,13.4
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,Fourth,,,Percentage (%),NG,22.8
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,Highest,,,Percentage (%),NG,45.1
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Abia,,Percentage (%),NGAB01,12.2
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Adamawa,,Percentage (%),NGAD02,25
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Akwa Ibom,,Percentage (%),NGAK03,26.5
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Anambra,,Percentage (%),NGAN04,3.3
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Bauchi,,Percentage (%),NGBA05,11
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Bayelsa,,Percentage (%),NGBY06,5
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Benue,,Percentage (%),NGBE07,12
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Cross River,,Percentage (%),NGXR09,6.9
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Delta,,Percentage (%),NGDE10,49.8
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Ebonyi,,Percentage (%),NGEB11,1
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Edo,,Percentage (%),NGED12,11.4
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Ekiti,,Percentage (%),NGEK13,21.3
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Enugu,,Percentage (%),NGEN14,1.8
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Gombe,,Percentage (%),NGGO15,33.7
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Imo,,Percentage (%),NGIM16,85.6
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Kaduna,,Percentage (%),NGKD18,14.4
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Kano,,Percentage (%),NGKN19,29.1
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Katsina,,Percentage (%),NGKT20,11.3
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Kogi,,Percentage (%),NGKO22,8.3
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Kwara,,Percentage (%),NGKW23,12.1
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Lagos,,Percentage (%),NGLA24,-55.8
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Nasarawa,,Percentage (%),NGNA25,25.7
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Niger,,Percentage (%),NGNI26,0.7
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Ogun,,Percentage (%),NGOG27,36.7
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Ondo,,Percentage (%),NGON28,14.2
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Osun,,Percentage (%),NGOS29,65.3
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Oyo,,Percentage (%),NGOY30,-38.2
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Plateau,,Percentage (%),NGPL31,3.6
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Rivers,,Percentage (%),NGRI32,21.6
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Taraba,,Percentage (%),NGTA34,-60
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Yobe,,Percentage (%),NGYO35,27.6
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Zamfara,,Percentage (%),NGZA36,-27.8
+2024,"(b) share of women among owners or rights-bearers of agricultural land, by type of tenure",,,,,,Federal Capital Territory,,Percentage (%),NGFC37,6.6
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,,Male,Percentage (%),NG,27.2
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",Urban,,,,,,Male,Percentage (%),NG,14.6
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",Rural,,,,,,Male,Percentage (%),NG,33.5
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,15-19,,,,,Male,Percentage (%),NG,1.8
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,20-24,,,,,Male,Percentage (%),NG,11
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,25-29,,,,,Male,Percentage (%),NG,21.6
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,30-34,,,,,Male,Percentage (%),NG,31.5
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,35-39,,,,,Male,Percentage (%),NG,36.2
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,40-44,,,,,Male,Percentage (%),NG,37.9
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,45-49,,,,,Male,Percentage (%),NG,45.8
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,50-59,,,,,Male,Percentage (%),NG,53
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,North Central,,,Male,Percentage (%),NGNCZ06,26.3
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,North East,,,Male,Percentage (%),NGNEZ05,30.4
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,North West,,,Male,Percentage (%),NGNWZ04,30.6
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,South East,,,Male,Percentage (%),NGSEZ03,14.4
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,South South,,,Male,Percentage (%),NGSSZ02,19.6
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,South West,,,Male,Percentage (%),NGSWZ01,8.8
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,None,,,,Male,Percentage (%),NG,36.1
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,Primary,,,,Male,Percentage (%),NG,29.6
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,Secondary,,,,Male,Percentage (%),NG,17.9
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,Higher,,,,Male,Percentage (%),NG,22.2
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,Lowest,,Male,Percentage (%),NG,37
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,Second,,Male,Percentage (%),NG,34.7
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,Middle,,Male,Percentage (%),NG,26.1
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,Fourth,,Male,Percentage (%),NG,17.1
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,Highest,,Male,Percentage (%),NG,12.9
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Abia,Male,Percentage (%),NGAB01,8.8
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Adamawa,Male,Percentage (%),NGAD02,26.9
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Akwa Ibom,Male,Percentage (%),NGAK03,34.4
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Anambra,Male,Percentage (%),NGAN04,11.5
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Bauchi,Male,Percentage (%),NGBA05,28.8
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Bayelsa,Male,Percentage (%),NGBY06,6
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Benue,Male,Percentage (%),NGBE07,35
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Borno,Male,Percentage (%),NGBO08,16.8
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Cross River,Male,Percentage (%),NGXR09,15.8
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Delta,Male,Percentage (%),NGDE10,31.7
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Ebonyi,Male,Percentage (%),NGEB11,17.1
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Edo,Male,Percentage (%),NGED12,8.9
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Ekiti,Male,Percentage (%),NGEK13,12.2
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Enugu,Male,Percentage (%),NGEN14,10.3
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Gombe,Male,Percentage (%),NGGO15,39.7
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Imo,Male,Percentage (%),NGIM16,20.6
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Jigawa,Male,Percentage (%),NGJI17,31.2
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Kaduna,Male,Percentage (%),NGKD18,28.8
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Kano,Male,Percentage (%),NGKN19,23.5
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Katsina,Male,Percentage (%),NGKT20,44.1
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Kebbi,Male,Percentage (%),NGKE21,32.8
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Kogi,Male,Percentage (%),NGKO22,40.5
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Kwara,Male,Percentage (%),NGKW23,12.5
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Lagos,Male,Percentage (%),NGLA24,4.3
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Nasarawa,Male,Percentage (%),NGNA25,23.9
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Niger,Male,Percentage (%),NGNI26,34.1
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Ogun,Male,Percentage (%),NGOG27,12.5
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Ondo,Male,Percentage (%),NGON28,14.2
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Osun,Male,Percentage (%),NGOS29,11.3
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Oyo,Male,Percentage (%),NGOY30,6.9
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Plateau,Male,Percentage (%),NGPL31,26
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Rivers,Male,Percentage (%),NGRI32,15.1
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Sokoto,Male,Percentage (%),NGSO33,25.6
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Taraba,Male,Percentage (%),NGTA34,38
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Yobe,Male,Percentage (%),NGYO35,38.4
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Zamfara,Male,Percentage (%),NGZA36,40.8
+2018,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Federal Capital Territory,Male,Percentage (%),NGFC37,9.2
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,,Male,Percentage (%),NG,27.2
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",Urban,,,,,,Male,Percentage (%),NG,14.6
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",Rural,,,,,,Male,Percentage (%),NG,33.5
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,15-19,,,,,Male,Percentage (%),NG,1.8
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,20-24,,,,,Male,Percentage (%),NG,11
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,25-29,,,,,Male,Percentage (%),NG,21.6
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,30-34,,,,,Male,Percentage (%),NG,31.5
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,35-39,,,,,Male,Percentage (%),NG,36.2
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,40-44,,,,,Male,Percentage (%),NG,37.9
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,45-49,,,,,Male,Percentage (%),NG,45.8
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,50-59,,,,,Male,Percentage (%),NG,53
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,North Central,,,Male,Percentage (%),NGNCZ06,26.3
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,North East,,,Male,Percentage (%),NGNEZ05,30.4
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,North West,,,Male,Percentage (%),NGNWZ04,30.6
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,South East,,,Male,Percentage (%),NGSEZ03,14.4
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,South South,,,Male,Percentage (%),NGSSZ02,19.6
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,South West,,,Male,Percentage (%),NGSWZ01,8.8
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,None,,,,Male,Percentage (%),NG,36.1
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,Primary,,,,Male,Percentage (%),NG,29.6
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,Secondary,,,,Male,Percentage (%),NG,17.9
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,Higher,,,,Male,Percentage (%),NG,22.2
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,Lowest,,Male,Percentage (%),NG,37
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,Second,,Male,Percentage (%),NG,34.7
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,Middle,,Male,Percentage (%),NG,26.1
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,Fourth,,Male,Percentage (%),NG,17.1
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,Highest,,Male,Percentage (%),NG,12.9
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Abia,Male,Percentage (%),NGAB01,8.8
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Adamawa,Male,Percentage (%),NGAD02,26.9
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Akwa Ibom,Male,Percentage (%),NGAK03,34.4
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Anambra,Male,Percentage (%),NGAN04,11.5
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Bauchi,Male,Percentage (%),NGBA05,28.8
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Bayelsa,Male,Percentage (%),NGBY06,6
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Benue,Male,Percentage (%),NGBE07,35
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Borno,Male,Percentage (%),NGBO08,16.8
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Cross River,Male,Percentage (%),NGXR09,15.8
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Delta,Male,Percentage (%),NGDE10,31.7
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Ebonyi,Male,Percentage (%),NGEB11,17.1
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Edo,Male,Percentage (%),NGED12,8.9
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Ekiti,Male,Percentage (%),NGEK13,12.2
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Enugu,Male,Percentage (%),NGEN14,10.3
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Gombe,Male,Percentage (%),NGGO15,39.7
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Imo,Male,Percentage (%),NGIM16,20.6
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Jigawa,Male,Percentage (%),NGJI17,31.2
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Kaduna,Male,Percentage (%),NGKD18,28.8
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Kano,Male,Percentage (%),NGKN19,23.5
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Katsina,Male,Percentage (%),NGKT20,44.1
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Kebbi,Male,Percentage (%),NGKE21,32.8
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Kogi,Male,Percentage (%),NGKO22,40.5
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Kwara,Male,Percentage (%),NGKW23,12.5
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Lagos,Male,Percentage (%),NGLA24,4.3
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Nasarawa,Male,Percentage (%),NGNA25,23.9
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Niger,Male,Percentage (%),NGNI26,34.1
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Ogun,Male,Percentage (%),NGOG27,12.5
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Ondo,Male,Percentage (%),NGON28,14.2
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Osun,Male,Percentage (%),NGOS29,11.3
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Oyo,Male,Percentage (%),NGOY30,6.9
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Plateau,Male,Percentage (%),NGPL31,26
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Rivers,Male,Percentage (%),NGRI32,15.1
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Sokoto,Male,Percentage (%),NGSO33,25.6
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Taraba,Male,Percentage (%),NGTA34,38
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Yobe,Male,Percentage (%),NGYO35,38.4
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Zamfara,Male,Percentage (%),NGZA36,40.8
+2024,"(a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex",,,,,,Federal Capital Territory,Male,Percentage (%),NGFC37,9.2
