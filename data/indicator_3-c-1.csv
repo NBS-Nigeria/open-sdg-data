@@ -1,4 +1,4 @@
-Year,Series,Category,Sex,State,GeoCode,Value
+Year,Series,Category,Gender,State,GeoCode,Value
 2021,Health worker density and distribution,Doctors,Male,Abia,NGAB01,504
 2021,Health worker density and distribution,Doctors,Male,Adamawa,NGAD02,226
 2021,Health worker density and distribution,Doctors,Male,Akwa Ibom,NGAK03,507
@@ -36,7 +36,7 @@ Year,Series,Category,Sex,State,GeoCode,Value
 2021,Health worker density and distribution,Doctors,Male,Yobe,NGYO35,225
 2021,Health worker density and distribution,Doctors,Male,Zamfara,NGZA36,216
 2021,Health worker density and distribution,Doctors,Male,Federal Capital Territory,NGFC37,2265
-2021,Health worker density and distribution,Doctors,Male,N/A,NG,2817
+2021,Health worker density and distribution,Doctors,Male,Not applicable,NG,2817
 2021,Health worker density and distribution,Doctors,Male,,NG,25566
 2021,Health worker density and distribution,Doctors,Female,Abia,NGAB01,240
 2021,Health worker density and distribution,Doctors,Female,Adamawa,NGAD02,52
@@ -75,7 +75,7 @@ Year,Series,Category,Sex,State,GeoCode,Value
 2021,Health worker density and distribution,Doctors,Female,Yobe,NGYO35,52
 2021,Health worker density and distribution,Doctors,Female,Zamfara,NGZA36,31
 2021,Health worker density and distribution,Doctors,Female,Federal Capital Territory,NGFC37,2216
-2021,Health worker density and distribution,Doctors,Female,N/A,NG,1833
+2021,Health worker density and distribution,Doctors,Female,Not applicable,NG,1833
 2021,Health worker density and distribution,Doctors,Female,,NG,15003
 2021,Health worker density and distribution,Doctors,,Abia,NGAB01,744
 2021,Health worker density and distribution,Doctors,,Adamawa,NGAD02,278
@@ -114,7 +114,7 @@ Year,Series,Category,Sex,State,GeoCode,Value
 2021,Health worker density and distribution,Doctors,,Yobe,NGYO35,277
 2021,Health worker density and distribution,Doctors,,Zamfara,NGZA36,247
 2021,Health worker density and distribution,Doctors,,Federal Capital Territory,NGFC37,4481
-2021,Health worker density and distribution,Doctors,,N/A,NG,4650
+2021,Health worker density and distribution,Doctors,,Not applicable,NG,4650
 2021,Health worker density and distribution,Doctors,,,NG,40569
 2021,Health worker density and distribution,Dentists,Male,Abia,NGAB01,7
 2021,Health worker density and distribution,Dentists,Male,Adamawa,NGAD02,10
@@ -153,7 +153,7 @@ Year,Series,Category,Sex,State,GeoCode,Value
 2021,Health worker density and distribution,Dentists,Male,Yobe,NGYO35,15
 2021,Health worker density and distribution,Dentists,Male,Zamfara,NGZA36,10
 2021,Health worker density and distribution,Dentists,Male,Federal Capital Territory,NGFC37,115
-2021,Health worker density and distribution,Dentists,Male,N/A,NG,95
+2021,Health worker density and distribution,Dentists,Male,Not applicable,NG,95
 2021,Health worker density and distribution,Dentists,Male,,NG,1289
 2021,Health worker density and distribution,Dentists,Female,Abia,NGAB01,0
 2021,Health worker density and distribution,Dentists,Female,Adamawa,NGAD02,2
@@ -192,7 +192,7 @@ Year,Series,Category,Sex,State,GeoCode,Value
 2021,Health worker density and distribution,Dentists,Female,Yobe,NGYO35,3
 2021,Health worker density and distribution,Dentists,Female,Zamfara,NGZA36,1
 2021,Health worker density and distribution,Dentists,Female,Federal Capital Territory,NGFC37,85
-2021,Health worker density and distribution,Dentists,Female,N/A,NG,115
+2021,Health worker density and distribution,Dentists,Female,Not applicable,NG,115
 2021,Health worker density and distribution,Dentists,Female,,NG,949
 2021,Health worker density and distribution,Dentists,,Abia,NGAB01,7
 2021,Health worker density and distribution,Dentists,,Adamawa,NGAD02,12
@@ -231,7 +231,7 @@ Year,Series,Category,Sex,State,GeoCode,Value
 2021,Health worker density and distribution,Dentists,,Yobe,NGYO35,18
 2021,Health worker density and distribution,Dentists,,Zamfara,NGZA36,11
 2021,Health worker density and distribution,Dentists,,Federal Capital Territory,NGFC37,200
-2021,Health worker density and distribution,Dentists,,N/A,NG,210
+2021,Health worker density and distribution,Dentists,,Not applicable,NG,210
 2021,Health worker density and distribution,Dentists,,,NG,2238
 2022,Health worker density and distribution,Doctors,Male,Abia,NGAB01,682
 2022,Health worker density and distribution,Doctors,Male,Adamawa,NGAD02,280
@@ -270,7 +270,7 @@ Year,Series,Category,Sex,State,GeoCode,Value
 2022,Health worker density and distribution,Doctors,Male,Yobe,NGYO35,270
 2022,Health worker density and distribution,Doctors,Male,Zamfara,NGZA36,271
 2022,Health worker density and distribution,Doctors,Male,Federal Capital Territory,NGFC37,2730
-2022,Health worker density and distribution,Doctors,Male,N/A,NG,3143
+2022,Health worker density and distribution,Doctors,Male,Not applicable,NG,3143
 2022,Health worker density and distribution,Doctors,Male,,NG,36806
 2022,Health worker density and distribution,Doctors,Female,Abia,NGAB01,312
 2022,Health worker density and distribution,Doctors,Female,Adamawa,NGAD02,68
@@ -309,7 +309,7 @@ Year,Series,Category,Sex,State,GeoCode,Value
 2022,Health worker density and distribution,Doctors,Female,Yobe,NGYO35,54
 2022,Health worker density and distribution,Doctors,Female,Zamfara,NGZA36,36
 2022,Health worker density and distribution,Doctors,Female,Federal Capital Territory,NGFC37,2587
-2022,Health worker density and distribution,Doctors,Female,N/A,NG,2044
+2022,Health worker density and distribution,Doctors,Female,Not applicable,NG,2044
 2022,Health worker density and distribution,Doctors,Female,,NG,19947
 2022,Health worker density and distribution,Doctors,,Abia,NGAB01,994
 2022,Health worker density and distribution,Doctors,,Adamawa,NGAD02,348
@@ -348,7 +348,7 @@ Year,Series,Category,Sex,State,GeoCode,Value
 2022,Health worker density and distribution,Doctors,,Yobe,NGYO35,324
 2022,Health worker density and distribution,Doctors,,Zamfara,NGZA36,307
 2022,Health worker density and distribution,Doctors,,Federal Capital Territory,NGFC37,5317
-2022,Health worker density and distribution,Doctors,,N/A,NG,5187
+2022,Health worker density and distribution,Doctors,,Not applicable,NG,5187
 2022,Health worker density and distribution,Doctors,,,NG,56753
 2022,Health worker density and distribution,Dentists,Male,Abia,NGAB01,10
 2022,Health worker density and distribution,Dentists,Male,Adamawa,NGAD02,11
@@ -387,7 +387,7 @@ Year,Series,Category,Sex,State,GeoCode,Value
 2022,Health worker density and distribution,Dentists,Male,Yobe,NGYO35,22
 2022,Health worker density and distribution,Dentists,Male,Zamfara,NGZA36,13
 2022,Health worker density and distribution,Dentists,Male,Federal Capital Territory,NGFC37,138
-2022,Health worker density and distribution,Dentists,Male,N/A,NG,99
+2022,Health worker density and distribution,Dentists,Male,Not applicable,NG,99
 2022,Health worker density and distribution,Dentists,Male,,NG,1856
 2022,Health worker density and distribution,Dentists,Female,Abia,NGAB01,3
 2022,Health worker density and distribution,Dentists,Female,Adamawa,NGAD02,1
@@ -426,7 +426,7 @@ Year,Series,Category,Sex,State,GeoCode,Value
 2022,Health worker density and distribution,Dentists,Female,Yobe,NGYO35,4
 2022,Health worker density and distribution,Dentists,Female,Zamfara,NGZA36,1
 2022,Health worker density and distribution,Dentists,Female,Federal Capital Territory,NGFC37,105
-2022,Health worker density and distribution,Dentists,Female,N/A,NG,138
+2022,Health worker density and distribution,Dentists,Female,Not applicable,NG,138
 2022,Health worker density and distribution,Dentists,Female,,NG,1340
 2022,Health worker density and distribution,Dentists,,Abia,NGAB01,13
 2022,Health worker density and distribution,Dentists,,Adamawa,NGAD02,12
@@ -465,7 +465,7 @@ Year,Series,Category,Sex,State,GeoCode,Value
 2022,Health worker density and distribution,Dentists,,Yobe,NGYO35,26
 2022,Health worker density and distribution,Dentists,,Zamfara,NGZA36,14
 2022,Health worker density and distribution,Dentists,,Federal Capital Territory,NGFC37,243
-2022,Health worker density and distribution,Dentists,,N/A,NG,237
+2022,Health worker density and distribution,Dentists,,Not applicable,NG,237
 2022,Health worker density and distribution,Dentists,,,NG,3196
 2023,Health worker density and distribution,Doctors,Male,Abia,NGAB01,721
 2023,Health worker density and distribution,Doctors,Male,Adamawa,NGAD02,303
@@ -504,7 +504,7 @@ Year,Series,Category,Sex,State,GeoCode,Value
 2023,Health worker density and distribution,Doctors,Male,Yobe,NGYO35,282
 2023,Health worker density and distribution,Doctors,Male,Zamfara,NGZA36,278
 2023,Health worker density and distribution,Doctors,Male,Federal Capital Territory,NGFC37,2756
-2023,Health worker density and distribution,Doctors,Male,N/A,NG,2842
+2023,Health worker density and distribution,Doctors,Male,Not applicable,NG,2842
 2023,Health worker density and distribution,Doctors,Male,,NG,38005
 2023,Health worker density and distribution,Doctors,Female,Abia,NGAB01,346
 2023,Health worker density and distribution,Doctors,Female,Adamawa,NGAD02,80
@@ -543,7 +543,7 @@ Year,Series,Category,Sex,State,GeoCode,Value
 2023,Health worker density and distribution,Doctors,Female,Yobe,NGYO35,66
 2023,Health worker density and distribution,Doctors,Female,Zamfara,NGZA36,36
 2023,Health worker density and distribution,Doctors,Female,Federal Capital Territory,NGFC37,2783
-2023,Health worker density and distribution,Doctors,Female,N/A,NG,1926
+2023,Health worker density and distribution,Doctors,Female,Not applicable,NG,1926
 2023,Health worker density and distribution,Doctors,Female,,NG,21480
 2023,Health worker density and distribution,Doctors,,Abia,NGAB01,1067
 2023,Health worker density and distribution,Doctors,,Adamawa,NGAD02,383
@@ -582,7 +582,7 @@ Year,Series,Category,Sex,State,GeoCode,Value
 2023,Health worker density and distribution,Doctors,,Yobe,NGYO35,348
 2023,Health worker density and distribution,Doctors,,Zamfara,NGZA36,314
 2023,Health worker density and distribution,Doctors,,Federal Capital Territory,NGFC37,5539
-2023,Health worker density and distribution,Doctors,,N/A,NG,4768
+2023,Health worker density and distribution,Doctors,,Not applicable,NG,4768
 2023,Health worker density and distribution,Doctors,,,NG,59485
 2023,Health worker density and distribution,Dentists,Male,Abia,NGAB01,11
 2023,Health worker density and distribution,Dentists,Male,Adamawa,NGAD02,14
@@ -612,7 +612,7 @@ Year,Series,Category,Sex,State,GeoCode,Value
 2023,Health worker density and distribution,Dentists,Male,Niger,NGNI26,15
 2023,Health worker density and distribution,Dentists,Male,Ogun,NGOG27,35
 2023,Health worker density and distribution,Dentists,Male,Ondo,NGON28,44
-2023,Health worker density and distribution,Dentists,Male,Osun,NGOS29,·125
+2023,Health worker density and distribution,Dentists,Male,Osun,NGOS29,ï¿½125
 2023,Health worker density and distribution,Dentists,Male,Oyo,NGOY30,137
 2023,Health worker density and distribution,Dentists,Male,Plateau,NGPL31,30
 2023,Health worker density and distribution,Dentists,Male,Rivers,NGRI32,92
@@ -621,7 +621,7 @@ Year,Series,Category,Sex,State,GeoCode,Value
 2023,Health worker density and distribution,Dentists,Male,Yobe,NGYO35,21
 2023,Health worker density and distribution,Dentists,Male,Zamfara,NGZA36,14
 2023,Health worker density and distribution,Dentists,Male,Federal Capital Territory,NGFC37,138
-2023,Health worker density and distribution,Dentists,Male,N/A,NG,90
+2023,Health worker density and distribution,Dentists,Male,Not applicable,NG,90
 2023,Health worker density and distribution,Dentists,Male,,NG,1991
 2023,Health worker density and distribution,Dentists,Female,Abia,NGAB01,3
 2023,Health worker density and distribution,Dentists,Female,Adamawa,NGAD02,2
@@ -660,7 +660,7 @@ Year,Series,Category,Sex,State,GeoCode,Value
 2023,Health worker density and distribution,Dentists,Female,Yobe,NGYO35,6
 2023,Health worker density and distribution,Dentists,Female,Zamfara,NGZA36,1
 2023,Health worker density and distribution,Dentists,Female,Federal Capital Territory,NGFC37,108
-2023,Health worker density and distribution,Dentists,Female,N/A,NG,134
+2023,Health worker density and distribution,Dentists,Female,Not applicable,NG,134
 2023,Health worker density and distribution,Dentists,Female,,NG,1480
 2023,Health worker density and distribution,Dentists,,Abia,NGAB01,14
 2023,Health worker density and distribution,Dentists,,Adamawa,NGAD02,16
@@ -699,7 +699,7 @@ Year,Series,Category,Sex,State,GeoCode,Value
 2023,Health worker density and distribution,Dentists,,Yobe,NGYO35,27
 2023,Health worker density and distribution,Dentists,,Zamfara,NGZA36,15
 2023,Health worker density and distribution,Dentists,,Federal Capital Territory,NGFC37,246
-2023,Health worker density and distribution,Dentists,,N/A,NG,224
+2023,Health worker density and distribution,Dentists,,Not applicable,NG,224
 2023,Health worker density and distribution,Dentists,,,NG,3471
 2024,Health worker density and distribution,Doctors,Male,Abia,NGAB01,766
 2024,Health worker density and distribution,Doctors,Male,Adamawa,NGAD02,311
@@ -738,7 +738,7 @@ Year,Series,Category,Sex,State,GeoCode,Value
 2024,Health worker density and distribution,Doctors,Male,Yobe,NGYO35,287
 2024,Health worker density and distribution,Doctors,Male,Zamfara,NGZA36,260
 2024,Health worker density and distribution,Doctors,Male,Federal Capital Territory,NGFC37,2671
-2024,Health worker density and distribution,Doctors,Male,N/A,NG,2581
+2024,Health worker density and distribution,Doctors,Male,Not applicable,NG,2581
 2024,Health worker density and distribution,Doctors,Male,,NG,38084
 2024,Health worker density and distribution,Doctors,Female,Abia,NGAB01,402
 2024,Health worker density and distribution,Doctors,Female,Adamawa,NGAD02,76
@@ -777,7 +777,7 @@ Year,Series,Category,Sex,State,GeoCode,Value
 2024,Health worker density and distribution,Doctors,Female,Yobe,NGYO35,71
 2024,Health worker density and distribution,Doctors,Female,Zamfara,NGZA36,38
 2024,Health worker density and distribution,Doctors,Female,Federal Capital Territory,NGFC37,2834
-2024,Health worker density and distribution,Doctors,Female,N/A,NG,1815
+2024,Health worker density and distribution,Doctors,Female,Not applicable,NG,1815
 2024,Health worker density and distribution,Doctors,Female,,NG,22467
 2024,Health worker density and distribution,Doctors,,Abia,NGAB01,1168
 2024,Health worker density and distribution,Doctors,,Adamawa,NGAD02,387
@@ -816,7 +816,7 @@ Year,Series,Category,Sex,State,GeoCode,Value
 2024,Health worker density and distribution,Doctors,,Yobe,NGYO35,358
 2024,Health worker density and distribution,Doctors,,Zamfara,NGZA36,298
 2024,Health worker density and distribution,Doctors,,Federal Capital Territory,NGFC37,5505
-2024,Health worker density and distribution,Doctors,,N/A,NG,4396
+2024,Health worker density and distribution,Doctors,,Not applicable,NG,4396
 2024,Health worker density and distribution,Doctors,,,NG,60551
 2024,Health worker density and distribution,Dentists,Male,Abia,NGAB01,11
 2024,Health worker density and distribution,Dentists,Male,Adamawa,NGAD02,13
@@ -855,7 +855,7 @@ Year,Series,Category,Sex,State,GeoCode,Value
 2024,Health worker density and distribution,Dentists,Male,Yobe,NGYO35,20
 2024,Health worker density and distribution,Dentists,Male,Zamfara,NGZA36,14
 2024,Health worker density and distribution,Dentists,Male,Federal Capital Territory,NGFC37,134
-2024,Health worker density and distribution,Dentists,Male,N/A,NG,69
+2024,Health worker density and distribution,Dentists,Male,Not applicable,NG,69
 2024,Health worker density and distribution,Dentists,Male,,NG,2029
 2024,Health worker density and distribution,Dentists,Female,Abia,NGAB01,2
 2024,Health worker density and distribution,Dentists,Female,Adamawa,NGAD02,2
@@ -894,7 +894,7 @@ Year,Series,Category,Sex,State,GeoCode,Value
 2024,Health worker density and distribution,Dentists,Female,Yobe,NGYO35,6
 2024,Health worker density and distribution,Dentists,Female,Zamfara,NGZA36,1
 2024,Health worker density and distribution,Dentists,Female,Federal Capital Territory,NGFC37,114
-2024,Health worker density and distribution,Dentists,Female,N/A,NG,115
+2024,Health worker density and distribution,Dentists,Female,Not applicable,NG,115
 2024,Health worker density and distribution,Dentists,Female,,NG,1530
 2024,Health worker density and distribution,Dentists,,Abia,NGAB01,13
 2024,Health worker density and distribution,Dentists,,Adamawa,NGAD02,15
@@ -933,5 +933,5 @@ Year,Series,Category,Sex,State,GeoCode,Value
 2024,Health worker density and distribution,Dentists,,Yobe,NGYO35,26
 2024,Health worker density and distribution,Dentists,,Zamfara,NGZA36,15
 2024,Health worker density and distribution,Dentists,,Federal Capital Territory,NGFC37,248
-2024,Health worker density and distribution,Dentists,,N/A,NG,184
+2024,Health worker density and distribution,Dentists,,Not applicable,NG,184
 2024,Health worker density and distribution,Dentists,,,NG,3559
